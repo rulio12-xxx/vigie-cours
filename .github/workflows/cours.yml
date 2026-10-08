@@ -24,12 +24,18 @@ jobs:
         run: pip install --quiet curl_cffi
       - name: Relevé Yahoo Finance
         run: python3 scripts/cours.py /tmp/cours.json
-      - name: Publication sur la branche « cours » (un seul commit, écrasé à chaque relevé)
+      - name: Publication sur la branche « cours » (cours.json + relevé du créneau)
         run: |
-          mkdir /tmp/pub && cd /tmp/pub
-          git init -q -b cours
-          mkdir donnees && cp /tmp/cours.json donnees/cours.json
-          git add donnees/cours.json
+          git clone -q --depth 1 --branch cours "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" /tmp/pub \
+            || { mkdir /tmp/pub && cd /tmp/pub && git init -q -b cours && git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"; }
+          cd /tmp/pub
+          mkdir -p donnees/releves
+          cp /tmp/cours.json donnees/cours.json
+          cp /tmp/releves/*.txt donnees/releves/
+          # garde 10 jours de relevés
+          find donnees/releves -name '*.txt' -mtime +10 -delete || true
+          ls donnees/releves | sort | head -n -40 | sed 's#^#donnees/releves/#' | xargs -r git rm -q || true
+          git add -A donnees
           git -c user.name="vigie-bot" -c user.email="vigie-bot@users.noreply.github.com" \
-              commit -q -m "Cours du $(date -u +'%Y-%m-%d %H:%M') UTC"
-          git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" cours
+              commit -q -m "Cours du $(date -u +'%Y-%m-%d %H:%M') UTC" || echo "rien à publier"
+          git push -q origin cours

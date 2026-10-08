@@ -4,7 +4,7 @@ Lancé par .github/workflows/cours.yml (serveurs GitHub, accès internet direct,
 sans cache). Chaque cours est horodaté avec l'heure de cotation fournie par Yahoo.
 """
 import json, sys, time, urllib.request, urllib.error
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from zoneinfo import ZoneInfo
 
 PARIS = ZoneInfo("Europe/Paris")
@@ -157,9 +157,48 @@ def main(out):
     }
     with open(out, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=1, sort_keys=True)
+    # relevé « créneau » à adresse unique (l'outil de lecture des tâches garde
+    # chaque adresse en cache indéfiniment : chaque créneau a donc sa propre URL)
+    import os
+    nom = creneau(now)
+    os.makedirs(os.path.join(os.path.dirname(out) or ".", "releves"), exist_ok=True)
+    with open(os.path.join(os.path.dirname(out) or ".", "releves", nom + ".txt"), "w", encoding="utf-8") as f:
+        f.write(texte_creneau(data))
+    print("créneau", nom)
     print(f"{len(lignes)} cours, {len(erreurs)} erreurs")
     for k, v in erreurs.items():
         print("ERREUR", k, v)
+
+
+CRENEAUX = ("0925", "1305", "1950")  # heures (Paris) des tâches planifiées
+
+
+def creneau(now):
+    """Nom du prochain créneau de tâche : AAAA-MM-JJ-HHMM."""
+    hm = now.strftime("%H%M")
+    if now.weekday() < 5:
+        for c in CRENEAUX:
+            if hm < c:
+                return now.strftime("%Y-%m-%d-") + c
+    d = now + timedelta(days=1)
+    while d.weekday() >= 5:
+        d += timedelta(days=1)
+    return d.strftime("%Y-%m-%d-") + CRENEAUX[0]
+
+
+def texte_creneau(data):
+    lignes = [f"releve={data['releve']} (heure de Paris)",
+              "id;cours_eur;date;heure;variation_pct;avantOuverture;cours_devise;taux"]
+    for k in sorted(data["lignes"]):
+        q = data["lignes"][k]
+        lignes.append(";".join(str(x) for x in (
+            k, q["cours"], q["date"], q["heure"], q.get("variation"),
+            "oui" if q.get("avantOuverture") else "non",
+            q.get("coursDevise", ""), q.get("taux", ""))))
+    for k, v in sorted(data["erreurs"].items()):
+        lignes.append(f"erreur;{k};{v}")
+    lignes.append("fin")
+    return "\n".join(lignes) + "\n"
 
 
 if __name__ == "__main__":
