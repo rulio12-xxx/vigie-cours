@@ -1,7 +1,7 @@
 name: Cours du jour
 
 # Toutes les 10 minutes, du lundi au vendredi, 6h-20h50 UTC
-# (couvre Paris 9h-17h35 et New York 15h30-22h, heure d'été comme d'hiver).
+# (couvre Paris 9h-17h35 et New York 15h30-22h, heure d'été comme d'hiver). 
 on:
   schedule:
     - cron: "7,17,27,37,47,57 6-20 * * 1-5"
