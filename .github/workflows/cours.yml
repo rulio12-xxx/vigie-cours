@@ -4,7 +4,7 @@ name: Cours du jour
 # (couvre Paris 9h-17h35 et New York 15h30-22h, heure d'été comme d'hiver).
 on:
   schedule:
-    - cron: "*/10 6-20 * * 1-5"
+    - cron: "7,17,27,37,47,57 6-20 * * 1-5"
   workflow_dispatch:
 
 permissions:
