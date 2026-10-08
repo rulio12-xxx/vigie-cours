@@ -1,10 +1,10 @@
 name: Cours du jour
 
-# Toutes les 10 minutes, du lundi au vendredi, 6h-17h UTC
-# (couvre la séance de Paris 9h-17h35 en heure d'été comme d'hiver).
+# Toutes les 10 minutes, du lundi au vendredi, 6h-20h50 UTC
+# (couvre Paris 9h-17h35 et New York 15h30-22h, heure d'été comme d'hiver).
 on:
   schedule:
-    - cron: "*/10 6-17 * * 1-5"
+    - cron: "*/10 6-20 * * 1-5"
   workflow_dispatch:
 
 permissions:

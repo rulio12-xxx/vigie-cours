@@ -30,9 +30,14 @@ TICKERS = {
     "nucl": ["NUCL.PA", "NUCL.AS", "NUCL.DE"], "paasi": ["PAASI.PA"], "pceu": ["PCEU.PA"],
     "psp5": ["PSP5.PA"], "ptpxh": ["PTPXH.PA"], "pust": ["PUST.PA"],
     "remx": ["REMX.PA", "REMX.AS", "REMX.DE"],
+    # actions étrangères (cours converti en euros, voir CONVERTIR)
+    "ge-healthcare": ["GEHC"],
     # indices de référence des fonds PEE
     "indice-stoxx600": ["^STOXX"],
 }
+
+# lignes cotées en devise : cours converti en euros au taux Yahoo du moment
+CONVERTIR = {"ge-healthcare": ("USD", "EURUSD=X")}
 
 UA = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36"}
 
@@ -95,7 +100,11 @@ def quote(ticker):
     closes = [c for c in (q[0].get("close") or []) if c is not None]
     dt = datetime.fromtimestamp(t, timezone.utc).astimezone(PARIS)
     prev = m.get("chartPreviousClose") or m.get("previousClose")
+    reg = ((m.get("currentTradingPeriod") or {}).get("regular") or {})
+    avant = bool(reg.get("start") and time.time() < reg["start"]
+                 and datetime.fromtimestamp(reg["start"], timezone.utc).astimezone(PARIS).date() == datetime.now(PARIS).date())
     return {
+        "avantOuverture": avant,
         "ticker": ticker,
         "cours": round(prix, 4),
         "dernierPoint": round(closes[-1], 4) if closes else None,
@@ -111,7 +120,7 @@ def quote(ticker):
 
 def main(out):
     now = datetime.now(PARIS)
-    lignes, erreurs = {}, {}
+    lignes, erreurs, fx_cache = {}, {}, {}
     for doc_id, cands in TICKERS.items():
         last = None
         for tk in cands:
@@ -120,6 +129,15 @@ def main(out):
             except Exception as e:  # noqa: BLE001
                 last = f"{tk}: {e}"
                 continue
+            conv = CONVERTIR.get(doc_id)
+            if conv and qd["devise"] == conv[0]:
+                fx = fx_cache.get(conv[1])
+                if fx is None:
+                    fx = fx_cache[conv[1]] = quote(conv[1])["cours"]
+                qd["coursDevise"], qd["veilleDevise"], qd["taux"] = qd["cours"], qd["veille"], fx
+                qd["cours"] = round(qd["cours"] / fx, 4)
+                qd["veille"] = round(qd["veille"] / fx, 4) if qd["veille"] else None
+                qd["devise"] = "EUR"
             if qd["devise"] not in ("EUR", None) and not tk.startswith("^"):
                 last = f"{tk}: devise {qd['devise']} (cours {qd['cours']} le {qd['date']} {qd['heure']})"
                 continue
