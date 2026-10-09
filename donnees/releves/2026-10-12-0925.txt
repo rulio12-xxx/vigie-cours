@@ -1,4 +1,4 @@
-releve=2026-10-09 22:30 (heure de Paris)
+releve=2026-10-09 22:40 (heure de Paris)
 id;cours_eur;date;heure;variation_pct;avantOuverture;cours_devise;taux
 abionyx;1.54;2026-10-09;17:35;4.34;non;;
 abivax;79.0;2026-10-09;17:38;2.46;non;;
