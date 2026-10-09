@@ -3,35 +3,35 @@
  "fuseau": "Europe/Paris",
  "lignes": {
   "abionyx": {
-   "ageMin": 21,
+   "ageMin": 25,
    "avantOuverture": false,
-   "cours": 1.51,
+   "cours": 1.54,
    "date": "2026-10-09",
-   "dernierPoint": 1.51,
+   "dernierPoint": 1.54,
    "devise": "EUR",
    "differeMin": 0,
-   "heure": "17:29",
+   "heure": "17:35",
    "place": "PAR",
    "ticker": "ABNX.PA",
-   "variation": 2.3,
+   "variation": 4.34,
    "veille": 1.476
   },
   "abivax": {
-   "ageMin": 15,
+   "ageMin": 22,
    "avantOuverture": false,
    "cours": 79.0,
    "date": "2026-10-09",
    "dernierPoint": 79.0,
    "devise": "EUR",
    "differeMin": 0,
-   "heure": "17:35",
+   "heure": "17:38",
    "place": "PAR",
    "ticker": "ABVX.PA",
    "variation": 2.46,
    "veille": 77.1
   },
   "air-liquide": {
-   "ageMin": 15,
+   "ageMin": 25,
    "avantOuverture": false,
    "cours": 169.68,
    "date": "2026-10-09",
@@ -45,21 +45,21 @@
    "veille": 167.94
   },
   "alten": {
-   "ageMin": 21,
+   "ageMin": 25,
    "avantOuverture": false,
-   "cours": 80.3,
+   "cours": 80.5,
    "date": "2026-10-09",
-   "dernierPoint": 80.15,
+   "dernierPoint": 80.5,
    "devise": "EUR",
    "differeMin": 0,
-   "heure": "17:29",
+   "heure": "17:35",
    "place": "PAR",
    "ticker": "ATE.PA",
-   "variation": 3.55,
+   "variation": 3.8,
    "veille": 77.55
   },
   "amundi-cac40": {
-   "ageMin": 15,
+   "ageMin": 25,
    "avantOuverture": false,
    "cours": 39.65,
    "date": "2026-10-09",
@@ -73,7 +73,7 @@
    "veille": 39.255
   },
   "amundi-dax": {
-   "ageMin": 15,
+   "ageMin": 25,
    "avantOuverture": false,
    "cours": 228.1,
    "date": "2026-10-09",
@@ -87,21 +87,21 @@
    "veille": 225.55
   },
   "amundi-gold": {
-   "ageMin": 21,
+   "ageMin": 24,
    "avantOuverture": false,
-   "cours": 148.2,
+   "cours": 148.24,
    "date": "2026-10-09",
-   "dernierPoint": 148.25,
+   "dernierPoint": 148.24,
    "devise": "EUR",
    "differeMin": 0,
-   "heure": "17:29",
+   "heure": "17:36",
    "place": "GER",
    "ticker": "GLDA.DE",
-   "variation": 1.81,
+   "variation": 1.84,
    "veille": 145.56
   },
   "amundi-msci-world": {
-   "ageMin": 15,
+   "ageMin": 25,
    "avantOuverture": false,
    "cours": 443.44,
    "date": "2026-10-09",
@@ -115,35 +115,35 @@
    "veille": 441.15
   },
   "aubay": {
-   "ageMin": 21,
+   "ageMin": 22,
    "avantOuverture": false,
-   "cours": 50.0,
+   "cours": 49.7,
    "date": "2026-10-09",
-   "dernierPoint": 50.1,
+   "dernierPoint": 49.7,
    "devise": "EUR",
    "differeMin": 0,
-   "heure": "17:29",
+   "heure": "17:38",
    "place": "PAR",
    "ticker": "AUB.PA",
-   "variation": 3.09,
+   "variation": 2.47,
    "veille": 48.5
   },
   "biomerieux": {
-   "ageMin": 21,
+   "ageMin": 24,
    "avantOuverture": false,
    "cours": 83.2,
    "date": "2026-10-09",
    "dernierPoint": 83.2,
    "devise": "EUR",
    "differeMin": 0,
-   "heure": "17:29",
+   "heure": "17:36",
    "place": "PAR",
    "ticker": "BIM.PA",
    "variation": 3.48,
    "veille": 80.4
   },
   "bnp-paribas": {
-   "ageMin": 15,
+   "ageMin": 25,
    "avantOuverture": false,
    "cours": 89.95,
    "date": "2026-10-09",
@@ -157,21 +157,21 @@
    "veille": 89.2
   },
   "coface": {
-   "ageMin": 21,
+   "ageMin": 25,
    "avantOuverture": false,
-   "cours": 15.69,
+   "cours": 15.58,
    "date": "2026-10-09",
-   "dernierPoint": 15.65,
+   "dernierPoint": 15.58,
    "devise": "EUR",
    "differeMin": 0,
-   "heure": "17:29",
+   "heure": "17:35",
    "place": "PAR",
    "ticker": "COFA.PA",
-   "variation": 1.75,
+   "variation": 1.04,
    "veille": 15.42
   },
   "copap": {
-   "ageMin": 15,
+   "ageMin": 25,
    "avantOuverture": false,
    "cours": 50.97,
    "date": "2026-10-09",
@@ -185,7 +185,7 @@
    "veille": 50.12
   },
   "dcam": {
-   "ageMin": 15,
+   "ageMin": 25,
    "avantOuverture": false,
    "cours": 6.389,
    "date": "2026-10-09",
@@ -199,49 +199,49 @@
    "veille": 6.355
   },
   "eiffage": {
-   "ageMin": 21,
+   "ageMin": 25,
    "avantOuverture": false,
-   "cours": 98.68,
+   "cours": 98.72,
    "date": "2026-10-09",
-   "dernierPoint": 98.68,
+   "dernierPoint": 98.72,
    "devise": "EUR",
    "differeMin": 0,
-   "heure": "17:29",
+   "heure": "17:35",
    "place": "PAR",
    "ticker": "FGR.PA",
-   "variation": -0.3,
+   "variation": -0.26,
    "veille": 98.98
   },
   "elis": {
-   "ageMin": 15,
+   "ageMin": 23,
    "avantOuverture": false,
    "cours": 21.26,
    "date": "2026-10-09",
    "dernierPoint": 21.26,
    "devise": "EUR",
    "differeMin": 0,
-   "heure": "17:35",
+   "heure": "17:37",
    "place": "PAR",
    "ticker": "ELIS.PA",
    "variation": 0.76,
    "veille": 21.1
   },
   "engie": {
-   "ageMin": 15,
+   "ageMin": 23,
    "avantOuverture": false,
    "cours": 22.75,
    "date": "2026-10-09",
    "dernierPoint": 22.75,
    "devise": "EUR",
    "differeMin": 0,
-   "heure": "17:35",
+   "heure": "17:37",
    "place": "PAR",
    "ticker": "ENGI.PA",
    "variation": 0.18,
    "veille": 22.71
   },
   "equasens": {
-   "ageMin": 15,
+   "ageMin": 25,
    "avantOuverture": false,
    "cours": 28.7,
    "date": "2026-10-09",
@@ -255,7 +255,7 @@
    "veille": 28.4
   },
   "essilorluxottica": {
-   "ageMin": 15,
+   "ageMin": 25,
    "avantOuverture": false,
    "cours": 146.35,
    "date": "2026-10-09",
@@ -269,7 +269,7 @@
    "veille": 143.0
   },
   "fountaine-pajot": {
-   "ageMin": 15,
+   "ageMin": 25,
    "avantOuverture": false,
    "cours": 74.6,
    "date": "2026-10-09",
@@ -285,22 +285,22 @@
   "ge-healthcare": {
    "ageMin": 0,
    "avantOuverture": false,
-   "cours": 58.2745,
+   "cours": 58.2797,
    "coursDevise": 65.25,
    "date": "2026-10-09",
    "dernierPoint": 65.25,
    "devise": "EUR",
    "differeMin": 0,
-   "heure": "17:50",
+   "heure": "18:00",
    "place": "NMS",
-   "taux": 1.1197,
+   "taux": 1.1196,
    "ticker": "GEHC",
    "variation": 1.6,
-   "veille": 57.3546,
+   "veille": 57.3598,
    "veilleDevise": 64.22
   },
   "gtt": {
-   "ageMin": 15,
+   "ageMin": 25,
    "avantOuverture": false,
    "cours": 216.4,
    "date": "2026-10-09",
@@ -314,7 +314,7 @@
    "veille": 216.4
   },
   "indice-stoxx600": {
-   "ageMin": 20,
+   "ageMin": 30,
    "avantOuverture": false,
    "cours": 631.55,
    "date": "2026-10-09",
@@ -328,21 +328,21 @@
    "veille": 625.51
   },
   "infotel": {
-   "ageMin": 15,
+   "ageMin": 23,
    "avantOuverture": false,
    "cours": 38.0,
    "date": "2026-10-09",
    "dernierPoint": 38.0,
    "devise": "EUR",
    "differeMin": 0,
-   "heure": "17:35",
+   "heure": "17:37",
    "place": "PAR",
    "ticker": "INF.PA",
    "variation": 2.15,
    "veille": 37.2
   },
   "ipsen": {
-   "ageMin": 15,
+   "ageMin": 25,
    "avantOuverture": false,
    "cours": 142.7,
    "date": "2026-10-09",
@@ -356,7 +356,7 @@
    "veille": 141.5
   },
   "lithium-batteries": {
-   "ageMin": 15,
+   "ageMin": 25,
    "avantOuverture": false,
    "cours": 25.8271,
    "date": "2026-10-09",
@@ -370,7 +370,7 @@
    "veille": 25.6577
   },
   "maurel-prom": {
-   "ageMin": 15,
+   "ageMin": 25,
    "avantOuverture": false,
    "cours": 8.18,
    "date": "2026-10-09",
@@ -384,7 +384,7 @@
    "veille": 8.135
   },
   "mth-oblig-25y": {
-   "ageMin": 15,
+   "ageMin": 25,
    "avantOuverture": false,
    "cours": 67.79,
    "date": "2026-10-09",
@@ -398,7 +398,7 @@
    "veille": 67.73
   },
   "nexans": {
-   "ageMin": 15,
+   "ageMin": 25,
    "avantOuverture": false,
    "cours": 129.3,
    "date": "2026-10-09",
@@ -412,7 +412,7 @@
    "veille": 127.2
   },
   "nucl": {
-   "ageMin": 67,
+   "ageMin": 77,
    "avantOuverture": false,
    "cours": 42.925,
    "date": "2026-10-09",
@@ -426,7 +426,7 @@
    "veille": 42.832
   },
   "opmobility": {
-   "ageMin": 15,
+   "ageMin": 25,
    "avantOuverture": false,
    "cours": 9.725,
    "date": "2026-10-09",
@@ -440,7 +440,7 @@
    "veille": 9.85
   },
   "paasi": {
-   "ageMin": 15,
+   "ageMin": 25,
    "avantOuverture": false,
    "cours": 40.435,
    "date": "2026-10-09",
@@ -454,7 +454,7 @@
    "veille": 40.235
   },
   "pceu": {
-   "ageMin": 15,
+   "ageMin": 25,
    "avantOuverture": false,
    "cours": 39.06,
    "date": "2026-10-09",
@@ -468,21 +468,21 @@
    "veille": 38.68
   },
   "pernod-ricard": {
-   "ageMin": 21,
+   "ageMin": 25,
    "avantOuverture": false,
-   "cours": 61.46,
+   "cours": 61.6,
    "date": "2026-10-09",
-   "dernierPoint": 61.46,
+   "dernierPoint": 61.6,
    "devise": "EUR",
    "differeMin": 0,
-   "heure": "17:29",
+   "heure": "17:35",
    "place": "PAR",
    "ticker": "RI.PA",
-   "variation": 0.59,
+   "variation": 0.82,
    "veille": 61.1
   },
   "psp5": {
-   "ageMin": 15,
+   "ageMin": 25,
    "avantOuverture": false,
    "cours": 61.22,
    "date": "2026-10-09",
@@ -496,7 +496,7 @@
    "veille": 61.01
   },
   "ptpxh": {
-   "ageMin": 37,
+   "ageMin": 47,
    "avantOuverture": false,
    "cours": 59.61,
    "date": "2026-10-09",
@@ -510,7 +510,7 @@
    "veille": 59.17
   },
   "pust": {
-   "ageMin": 15,
+   "ageMin": 25,
    "avantOuverture": false,
    "cours": 110.44,
    "date": "2026-10-09",
@@ -524,7 +524,7 @@
    "veille": 111.06
   },
   "remx": {
-   "ageMin": 15,
+   "ageMin": 25,
    "avantOuverture": false,
    "cours": 10.714,
    "date": "2026-10-09",
@@ -538,21 +538,21 @@
    "veille": 10.636
   },
   "renault": {
-   "ageMin": 21,
+   "ageMin": 25,
    "avantOuverture": false,
-   "cours": 26.62,
+   "cours": 26.5,
    "date": "2026-10-09",
-   "dernierPoint": 26.61,
+   "dernierPoint": 26.5,
    "devise": "EUR",
    "differeMin": 0,
-   "heure": "17:29",
+   "heure": "17:35",
    "place": "PAR",
    "ticker": "RNO.PA",
-   "variation": 2.23,
+   "variation": 1.77,
    "veille": 26.04
   },
   "robertet": {
-   "ageMin": 15,
+   "ageMin": 25,
    "avantOuverture": false,
    "cours": 774.0,
    "date": "2026-10-09",
@@ -566,21 +566,21 @@
    "veille": 758.0
   },
   "safran": {
-   "ageMin": 15,
+   "ageMin": 22,
    "avantOuverture": false,
    "cours": 316.2,
    "date": "2026-10-09",
    "dernierPoint": 316.2,
    "devise": "EUR",
    "differeMin": 0,
-   "heure": "17:35",
+   "heure": "17:38",
    "place": "PAR",
    "ticker": "SAF.PA",
    "variation": 1.74,
    "veille": 310.8
   },
   "saint-gobain": {
-   "ageMin": 15,
+   "ageMin": 25,
    "avantOuverture": false,
    "cours": 64.94,
    "date": "2026-10-09",
@@ -594,7 +594,7 @@
    "veille": 64.76
   },
   "sanofi": {
-   "ageMin": 15,
+   "ageMin": 25,
    "avantOuverture": false,
    "cours": 71.52,
    "date": "2026-10-09",
@@ -608,7 +608,7 @@
    "veille": 70.93
   },
   "scor": {
-   "ageMin": 15,
+   "ageMin": 25,
    "avantOuverture": false,
    "cours": 31.92,
    "date": "2026-10-09",
@@ -622,7 +622,7 @@
    "veille": 31.76
   },
   "semco": {
-   "ageMin": 15,
+   "ageMin": 25,
    "avantOuverture": false,
    "cours": 46.45,
    "date": "2026-10-09",
@@ -636,7 +636,7 @@
    "veille": 45.6
   },
   "societe-generale": {
-   "ageMin": 15,
+   "ageMin": 25,
    "avantOuverture": false,
    "cours": 63.04,
    "date": "2026-10-09",
@@ -650,7 +650,7 @@
    "veille": 62.5
   },
   "stellantis": {
-   "ageMin": 15,
+   "ageMin": 25,
    "avantOuverture": false,
    "cours": 4.0045,
    "date": "2026-10-09",
@@ -664,7 +664,7 @@
    "veille": 3.9925
   },
   "stmicroelectronics": {
-   "ageMin": 15,
+   "ageMin": 25,
    "avantOuverture": false,
    "cours": 46.545,
    "date": "2026-10-09",
@@ -678,7 +678,7 @@
    "veille": 47.985
   },
   "sword": {
-   "ageMin": 15,
+   "ageMin": 25,
    "avantOuverture": false,
    "cours": 29.85,
    "date": "2026-10-09",
@@ -692,7 +692,7 @@
    "veille": 29.0
   },
   "technip-energies": {
-   "ageMin": 15,
+   "ageMin": 25,
    "avantOuverture": false,
    "cours": 29.14,
    "date": "2026-10-09",
@@ -706,49 +706,49 @@
    "veille": 28.2
   },
   "totalenergies": {
-   "ageMin": 15,
+   "ageMin": 23,
    "avantOuverture": false,
    "cours": 78.53,
    "date": "2026-10-09",
    "dernierPoint": 78.53,
    "devise": "EUR",
    "differeMin": 0,
-   "heure": "17:35",
+   "heure": "17:37",
    "place": "PAR",
    "ticker": "TTE.PA",
    "variation": 1.22,
    "veille": 77.58
   },
   "trigano": {
-   "ageMin": 15,
+   "ageMin": 24,
    "avantOuverture": false,
    "cours": 125.3,
    "date": "2026-10-09",
    "dernierPoint": 125.3,
    "devise": "EUR",
    "differeMin": 0,
-   "heure": "17:35",
+   "heure": "17:36",
    "place": "PAR",
    "ticker": "TRI.PA",
    "variation": -1.1,
    "veille": 126.7
   },
   "umg": {
-   "ageMin": 15,
+   "ageMin": 23,
    "avantOuverture": false,
    "cours": 14.9,
    "date": "2026-10-09",
    "dernierPoint": 14.9,
    "devise": "EUR",
    "differeMin": 0,
-   "heure": "17:35",
+   "heure": "17:37",
    "place": "AMS",
    "ticker": "UMG.AS",
    "variation": 1.5,
    "veille": 14.68
   },
   "wavestone": {
-   "ageMin": 15,
+   "ageMin": 25,
    "avantOuverture": false,
    "cours": 29.85,
    "date": "2026-10-09",
@@ -762,6 +762,6 @@
    "veille": 29.05
   }
  },
- "releve": "2026-10-09 17:50",
+ "releve": "2026-10-09 18:00",
  "source": "Yahoo Finance API v8 chart (regularMarketPrice / regularMarketTime)"
 }
