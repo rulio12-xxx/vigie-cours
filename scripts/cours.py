@@ -22,7 +22,7 @@ TICKERS = {
     "scor": ["SCR.PA"], "semco": ["ALSEM.PA"], "societe-generale": ["GLE.PA"],
     "stellantis": ["STLAP.PA"], "sword": ["SWP.PA"], "technip-energies": ["TE.PA"],
     "totalenergies": ["TTE.PA"], "trigano": ["TRI.PA"], "umg": ["UMG.AS"],
-    "wavestone": ["WAVE.PA"], "stmicroelectronics": ["STMPA.PA"],
+    "wavestone": ["WAVE.PA"], "stmicroelectronics": ["STMPA.PA"], "opmobility": ["OPM.PA"], "air-liquide": ["AI.PA"],
     # ETF / ETC
     "amundi-cac40": ["CACC.PA"], "amundi-dax": ["DAX.PA"], "amundi-gold": ["GOLD.PA", "GLDA.DE", "GOLD.AS"],
     "amundi-msci-world": ["WLD.PA", "CW8.PA"], "copap": ["COPAP.PA"], "dcam": ["DCAM.PA"],
