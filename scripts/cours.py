@@ -22,7 +22,7 @@ TICKERS = {
     "scor": ["SCR.PA"], "semco": ["ALSEM.PA"], "societe-generale": ["GLE.PA"],
     "stellantis": ["STLAP.PA"], "sword": ["SWP.PA"], "technip-energies": ["TE.PA"],
     "totalenergies": ["TTE.PA"], "trigano": ["TRI.PA"], "umg": ["UMG.AS"],
-    "wavestone": ["WAVE.PA"], "stmicroelectronics": ["STMPA.PA"], "opmobility": ["OPM.PA"], "air-liquide": ["AI.PA"], "gl-events": ["GLO.PA"], "guillin": ["ALGIL.PA"], "jacquet-metals": ["JCQ.PA"],
+    "wavestone": ["WAVE.PA"], "stmicroelectronics": ["STMPA.PA"], "opmobility": ["OPM.PA"], "air-liquide": ["AI.PA"], "gl-events": ["GLO.PA"], "guillin": ["ALGIL.PA"], "jacquet-metals": ["JCQ.PA"], "ayvens": ["AYV.PA"], "quadient": ["QDT.PA"], "traton": ["8TRA.DE"],
     # ETF / ETC
     "amundi-cac40": ["CACC.PA"], "amundi-dax": ["DAX.PA"], "amundi-gold": ["GOLD.PA", "GLDA.DE", "GOLD.AS"],
     "amundi-msci-world": ["WLD.PA", "CW8.PA"], "copap": ["COPAP.PA"], "dcam": ["DCAM.PA"],
@@ -31,13 +31,13 @@ TICKERS = {
     "psp5": ["PSP5.PA"], "ptpxh": ["PTPXH.PA"], "pust": ["PUST.PA"],
     "remx": ["REMX.PA", "REMX.AS", "REMX.DE"],
     # actions étrangères (cours converti en euros, voir CONVERTIR)
-    "ge-healthcare": ["GEHC"],
+    "ge-healthcare": ["GEHC"], "hoegh-autoliners": ["HAUTO.OL"],
     # indices de référence des fonds PEE
     "indice-stoxx600": ["^STOXX"],
 }
 
 # lignes cotées en devise : cours converti en euros au taux Yahoo du moment
-CONVERTIR = {"ge-healthcare": ("USD", "EURUSD=X")}
+CONVERTIR = {"ge-healthcare": ("USD", "EURUSD=X"), "hoegh-autoliners": ("NOK", "EURNOK=X")}
 
 UA = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36"}
 
