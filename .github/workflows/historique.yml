@@ -1,0 +1,30 @@
+name: Historique 8 et 12 mois
+
+# Plus bas / plus haut de clôture sur 8 et 12 mois (lancement manuel, et chaque lundi 6h UTC)
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "3 6 * * 1"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cours
+  cancel-in-progress: false
+
+jobs:
+  historique:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install --quiet curl_cffi
+      - run: cd scripts && python3 historique.py /tmp/historique.json
+      - name: Publication sur la branche « cours »
+        run: |
+          git clone -q --depth 1 --branch cours "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" /tmp/pub
+          cd /tmp/pub && mkdir -p donnees && cp /tmp/historique.json donnees/historique.json
+          git add donnees/historique.json
+          git -c user.name="vigie-bot" -c user.email="vigie-bot@users.noreply.github.com" commit -q -m "Historique du $(date -u +'%Y-%m-%d')" || echo "rien"
+          git push -q origin cours
