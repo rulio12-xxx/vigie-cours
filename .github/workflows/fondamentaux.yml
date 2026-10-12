@@ -1,0 +1,31 @@
+name: Fondamentaux (note Higgons)
+
+on:
+  workflow_dispatch:
+    inputs:
+      ids:
+        description: "Identifiants séparés par des espaces"
+        required: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cours
+  cancel-in-progress: false
+
+jobs:
+  fondamentaux:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install --quiet curl_cffi
+      - run: cd scripts && python3 fondamentaux.py /tmp/fondamentaux.json ${{ inputs.ids }}
+      - name: Publication sur la branche « cours »
+        run: |
+          git clone -q --depth 1 --branch cours "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" /tmp/pub
+          cd /tmp/pub && mkdir -p donnees && cp /tmp/fondamentaux.json donnees/fondamentaux.json
+          git add donnees/fondamentaux.json
+          git -c user.name="vigie-bot" -c user.email="vigie-bot@users.noreply.github.com" commit -q -m "Fondamentaux du $(date -u +'%Y-%m-%d %H:%M')" || echo "rien"
+          git push -q origin cours
