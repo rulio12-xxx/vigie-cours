@@ -1,5 +1,5 @@
 {
- "genere": "2026-10-12T20:27+00:00",
+ "genere": "2026-10-12T20:31+00:00",
  "lignes": {
   "abionyx": {
    "ticker": "ABNX.PA",
@@ -1027,6 +1027,42 @@
     "maxDate": "2026-07-31"
    }
   },
+  "figeac-aero": {
+   "ticker": "FGA.PA",
+   "devise": "EUR",
+   "dernier": 11.1,
+   "dernierDate": "2026-10-12",
+   "m8": {
+    "min": 9.14,
+    "minDate": "2026-04-07",
+    "max": 12.18,
+    "maxDate": "2026-07-03"
+   },
+   "m12": {
+    "min": 9.14,
+    "minDate": "2026-04-07",
+    "max": 12.55,
+    "maxDate": "2025-11-20"
+   }
+  },
+  "rising-stone": {
+   "ticker": "ALRIS.PA",
+   "devise": "EUR",
+   "dernier": 46.5,
+   "dernierDate": "2026-10-12",
+   "m8": {
+    "min": 39.4,
+    "minDate": "2026-09-28",
+    "max": 56.99,
+    "maxDate": "2026-02-24"
+   },
+   "m12": {
+    "min": 39.4,
+    "minDate": "2026-09-28",
+    "max": 56.99,
+    "maxDate": "2026-02-24"
+   }
+  },
   "amundi-cac40": {
    "ticker": "CACC.PA",
    "devise": "EUR",
@@ -1300,7 +1336,7 @@
   "ge-healthcare": {
    "ticker": "GEHC",
    "devise": "USD",
-   "dernier": 60.7154,
+   "dernier": 60.7086,
    "dernierDate": "2026-10-12",
    "m8": {
     "min": 50.9085,
@@ -1318,7 +1354,7 @@
   "hoegh-autoliners": {
    "ticker": "HAUTO.OL",
    "devise": "NOK",
-   "dernier": 17.2228,
+   "dernier": 17.2227,
    "dernierDate": "2026-10-12",
    "m8": {
     "min": 9.8304,
