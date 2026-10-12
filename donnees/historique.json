@@ -1,5 +1,5 @@
 {
- "genere": "2026-10-12T20:35+00:00",
+ "genere": "2026-10-12T20:43+00:00",
  "lignes": {
   "abionyx": {
    "ticker": "ABNX.PA",
@@ -1099,6 +1099,24 @@
     "maxDate": "2026-07-16"
    }
   },
+  "stif": {
+   "ticker": "ALSTI.PA",
+   "devise": "EUR",
+   "dernier": 16.81,
+   "dernierDate": "2026-10-12",
+   "m8": {
+    "min": 16.08,
+    "minDate": "2026-10-08",
+    "max": 64.1,
+    "maxDate": "2026-02-25"
+   },
+   "m12": {
+    "min": 16.08,
+    "minDate": "2026-10-08",
+    "max": 68.3,
+    "maxDate": "2025-10-20"
+   }
+  },
   "amundi-cac40": {
    "ticker": "CACC.PA",
    "devise": "EUR",
@@ -1390,7 +1408,7 @@
   "hoegh-autoliners": {
    "ticker": "HAUTO.OL",
    "devise": "NOK",
-   "dernier": 17.2233,
+   "dernier": 17.2242,
    "dernierDate": "2026-10-12",
    "m8": {
     "min": 9.8304,
