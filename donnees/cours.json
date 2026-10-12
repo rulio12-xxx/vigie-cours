@@ -3,8 +3,8 @@
  "fuseau": "Europe/Paris",
  "lignes": {
   "abionyx": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 1.52,
    "date": "2026-10-12",
    "dernierPoint": 1.52,
@@ -17,8 +17,8 @@
    "veille": 1.54
   },
   "abivax": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 78.2,
    "date": "2026-10-12",
    "dernierPoint": 78.2,
@@ -31,8 +31,8 @@
    "veille": 79.0
   },
   "adp": {
-   "ageMin": 312,
-   "avantOuverture": false,
+   "ageMin": 411,
+   "avantOuverture": true,
    "cours": 103.9,
    "date": "2026-10-12",
    "dernierPoint": 103.9,
@@ -45,8 +45,8 @@
    "veille": 103.7
   },
   "air-liquide": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 168.7,
    "date": "2026-10-12",
    "dernierPoint": 168.7,
@@ -59,8 +59,8 @@
    "veille": 169.68
   },
   "alten": {
-   "ageMin": 313,
-   "avantOuverture": false,
+   "ageMin": 412,
+   "avantOuverture": true,
    "cours": 81.2,
    "date": "2026-10-12",
    "dernierPoint": 81.2,
@@ -73,8 +73,8 @@
    "veille": 80.5
   },
   "amundi-cac40": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 39.79,
    "date": "2026-10-12",
    "dernierPoint": 39.79,
@@ -87,8 +87,8 @@
    "veille": 39.65
   },
   "amundi-dax": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 229.85,
    "date": "2026-10-12",
    "dernierPoint": 229.85,
@@ -101,8 +101,8 @@
    "veille": 228.1
   },
   "amundi-gold": {
-   "ageMin": 314,
-   "avantOuverture": false,
+   "ageMin": 413,
+   "avantOuverture": true,
    "cours": 147.8,
    "date": "2026-10-12",
    "dernierPoint": 147.8,
@@ -115,8 +115,8 @@
    "veille": 148.24
   },
   "amundi-msci-world": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 445.54,
    "date": "2026-10-12",
    "dernierPoint": 445.54,
@@ -129,8 +129,8 @@
    "veille": 443.44
   },
   "aubay": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 50.3,
    "date": "2026-10-12",
    "dernierPoint": 50.3,
@@ -143,8 +143,8 @@
    "veille": 49.7
   },
   "ayvens": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 8.735,
    "date": "2026-10-12",
    "dernierPoint": 8.735,
@@ -157,8 +157,8 @@
    "veille": 8.77
   },
   "biomerieux": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 84.25,
    "date": "2026-10-12",
    "dernierPoint": 84.25,
@@ -171,8 +171,8 @@
    "veille": 83.2
   },
   "bnp-paribas": {
-   "ageMin": 314,
-   "avantOuverture": false,
+   "ageMin": 413,
+   "avantOuverture": true,
    "cours": 90.09,
    "date": "2026-10-12",
    "dernierPoint": 90.09,
@@ -185,8 +185,8 @@
    "veille": 89.95
   },
   "bouygues": {
-   "ageMin": 314,
-   "avantOuverture": false,
+   "ageMin": 413,
+   "avantOuverture": true,
    "cours": 40.45,
    "date": "2026-10-12",
    "dernierPoint": 40.45,
@@ -199,8 +199,8 @@
    "veille": 40.3
   },
   "capgemini": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 115.35,
    "date": "2026-10-12",
    "dernierPoint": 115.35,
@@ -213,8 +213,8 @@
    "veille": 115.05
   },
   "carmila": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 14.28,
    "date": "2026-10-12",
    "dernierPoint": 14.28,
@@ -227,8 +227,8 @@
    "veille": 14.34
   },
   "coface": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 15.65,
    "date": "2026-10-12",
    "dernierPoint": 15.65,
@@ -241,8 +241,8 @@
    "veille": 15.58
   },
   "copap": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 51.55,
    "date": "2026-10-12",
    "dernierPoint": 51.55,
@@ -255,8 +255,8 @@
    "veille": 50.97
   },
   "covivio": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 42.64,
    "date": "2026-10-12",
    "dernierPoint": 42.64,
@@ -269,8 +269,8 @@
    "veille": 42.88
   },
   "credit-agricole": {
-   "ageMin": 313,
-   "avantOuverture": false,
+   "ageMin": 412,
+   "avantOuverture": true,
    "cours": 16.33,
    "date": "2026-10-12",
    "dernierPoint": 16.33,
@@ -283,8 +283,8 @@
    "veille": 16.32
   },
   "danone": {
-   "ageMin": 314,
-   "avantOuverture": false,
+   "ageMin": 413,
+   "avantOuverture": true,
    "cours": 59.3,
    "date": "2026-10-12",
    "dernierPoint": 59.3,
@@ -297,8 +297,8 @@
    "veille": 58.7
   },
   "dcam": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 6.418,
    "date": "2026-10-12",
    "dernierPoint": 6.418,
@@ -311,8 +311,8 @@
    "veille": 6.389
   },
   "eiffage": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 99.72,
    "date": "2026-10-12",
    "dernierPoint": 99.72,
@@ -325,8 +325,8 @@
    "veille": 98.72
   },
   "elis": {
-   "ageMin": 313,
-   "avantOuverture": false,
+   "ageMin": 412,
+   "avantOuverture": true,
    "cours": 21.64,
    "date": "2026-10-12",
    "dernierPoint": 21.64,
@@ -339,8 +339,8 @@
    "veille": 21.26
   },
   "engie": {
-   "ageMin": 314,
-   "avantOuverture": false,
+   "ageMin": 413,
+   "avantOuverture": true,
    "cours": 22.94,
    "date": "2026-10-12",
    "dernierPoint": 22.94,
@@ -353,8 +353,8 @@
    "veille": 22.75
   },
   "equasens": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 28.95,
    "date": "2026-10-12",
    "dernierPoint": 28.95,
@@ -367,8 +367,8 @@
    "veille": 28.7
   },
   "essilorluxottica": {
-   "ageMin": 314,
-   "avantOuverture": false,
+   "ageMin": 413,
+   "avantOuverture": true,
    "cours": 146.75,
    "date": "2026-10-12",
    "dernierPoint": 146.75,
@@ -381,8 +381,8 @@
    "veille": 146.35
   },
   "figeac-aero": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 11.1,
    "date": "2026-10-12",
    "dernierPoint": 11.1,
@@ -395,8 +395,8 @@
    "veille": 10.86
   },
   "fountaine-pajot": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 74.1,
    "date": "2026-10-12",
    "dernierPoint": 74.1,
@@ -409,9 +409,9 @@
    "veille": 74.6
   },
   "ge-healthcare": {
-   "ageMin": 50,
+   "ageMin": 149,
    "avantOuverture": false,
-   "cours": 60.7152,
+   "cours": 60.688,
    "coursDevise": 67.74,
    "date": "2026-10-12",
    "dernierPoint": 67.74,
@@ -419,15 +419,15 @@
    "differeMin": 0,
    "heure": "22:00",
    "place": "NMS",
-   "taux": 1.1157,
+   "taux": 1.1162,
    "ticker": "GEHC",
    "variation": 3.04,
-   "veille": 58.9226,
+   "veille": 58.8963,
    "veilleDevise": 65.74
   },
   "genfit": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 8.41,
    "date": "2026-10-12",
    "dernierPoint": 8.41,
@@ -440,8 +440,8 @@
    "veille": 8.28
   },
   "gl-events": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 24.35,
    "date": "2026-10-12",
    "dernierPoint": 24.35,
@@ -454,8 +454,8 @@
    "veille": 24.3
   },
   "gtt": {
-   "ageMin": 313,
-   "avantOuverture": false,
+   "ageMin": 412,
+   "avantOuverture": true,
    "cours": 216.6,
    "date": "2026-10-12",
    "dernierPoint": 216.6,
@@ -468,8 +468,8 @@
    "veille": 216.4
   },
   "guillin": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 19.3,
    "date": "2026-10-12",
    "dernierPoint": 19.3,
@@ -482,8 +482,8 @@
    "veille": 19.5
   },
   "hermes": {
-   "ageMin": 312,
-   "avantOuverture": false,
+   "ageMin": 411,
+   "avantOuverture": true,
    "cours": 1310.0,
    "date": "2026-10-12",
    "dernierPoint": 1310.0,
@@ -496,9 +496,9 @@
    "veille": 1283.0
   },
   "hoegh-autoliners": {
-   "ageMin": 385,
-   "avantOuverture": false,
-   "cours": 17.2239,
+   "ageMin": 484,
+   "avantOuverture": true,
+   "cours": 17.2323,
    "coursDevise": 184.0,
    "date": "2026-10-12",
    "dernierPoint": 184.0,
@@ -506,15 +506,15 @@
    "differeMin": 0,
    "heure": "16:25",
    "place": "OSL",
-   "taux": 10.6828,
+   "taux": 10.6776,
    "ticker": "HAUTO.OL",
    "variation": -0.33,
-   "veille": 17.2801,
+   "veille": 17.2885,
    "veilleDevise": 184.6
   },
   "indice-stoxx600": {
-   "ageMin": 290,
-   "avantOuverture": false,
+   "ageMin": 389,
+   "avantOuverture": true,
    "cours": 635.65,
    "date": "2026-10-12",
    "dernierPoint": 635.65,
@@ -527,8 +527,8 @@
    "veille": 631.55
   },
   "infotel": {
-   "ageMin": 314,
-   "avantOuverture": false,
+   "ageMin": 413,
+   "avantOuverture": true,
    "cours": 39.15,
    "date": "2026-10-12",
    "dernierPoint": 39.15,
@@ -541,8 +541,8 @@
    "veille": 38.0
   },
   "ipsen": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 144.1,
    "date": "2026-10-12",
    "dernierPoint": 144.1,
@@ -555,8 +555,8 @@
    "veille": 142.7
   },
   "jacquet-metals": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 20.0,
    "date": "2026-10-12",
    "dernierPoint": 20.0,
@@ -569,8 +569,8 @@
    "veille": 19.66
   },
   "lithium-batteries": {
-   "ageMin": 330,
-   "avantOuverture": false,
+   "ageMin": 429,
+   "avantOuverture": true,
    "cours": 25.3852,
    "date": "2026-10-12",
    "dernierPoint": 25.3852,
@@ -583,8 +583,8 @@
    "veille": 25.8271
   },
   "lvmh": {
-   "ageMin": 311,
-   "avantOuverture": false,
+   "ageMin": 410,
+   "avantOuverture": true,
    "cours": 384.5,
    "date": "2026-10-12",
    "dernierPoint": 384.5,
@@ -597,8 +597,8 @@
    "veille": 380.0
   },
   "maurel-prom": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 8.17,
    "date": "2026-10-12",
    "dernierPoint": 8.17,
@@ -611,8 +611,8 @@
    "veille": 8.18
   },
   "michelin": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 33.3,
    "date": "2026-10-12",
    "dernierPoint": 33.3,
@@ -625,8 +625,8 @@
    "veille": 33.41
   },
   "mth-oblig-25y": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 67.9,
    "date": "2026-10-12",
    "dernierPoint": 67.9,
@@ -639,8 +639,8 @@
    "veille": 67.79
   },
   "nexans": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 131.9,
    "date": "2026-10-12",
    "dernierPoint": 131.9,
@@ -653,8 +653,8 @@
    "veille": 129.3
   },
   "nucl": {
-   "ageMin": 326,
-   "avantOuverture": false,
+   "ageMin": 425,
+   "avantOuverture": true,
    "cours": 42.57,
    "date": "2026-10-12",
    "dernierPoint": 42.57,
@@ -667,8 +667,8 @@
    "veille": 43.084
   },
   "opmobility": {
-   "ageMin": 311,
-   "avantOuverture": false,
+   "ageMin": 410,
+   "avantOuverture": true,
    "cours": 9.4,
    "date": "2026-10-12",
    "dernierPoint": 9.4,
@@ -681,8 +681,8 @@
    "veille": 9.725
   },
   "paasi": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 40.19,
    "date": "2026-10-12",
    "dernierPoint": 40.19,
@@ -695,8 +695,8 @@
    "veille": 40.435
   },
   "pceu": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 39.305,
    "date": "2026-10-12",
    "dernierPoint": 39.305,
@@ -709,8 +709,8 @@
    "veille": 39.06
   },
   "pernod-ricard": {
-   "ageMin": 311,
-   "avantOuverture": false,
+   "ageMin": 410,
+   "avantOuverture": true,
    "cours": 62.46,
    "date": "2026-10-12",
    "dernierPoint": 62.46,
@@ -723,8 +723,8 @@
    "veille": 61.6
   },
   "psp5": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 61.51,
    "date": "2026-10-12",
    "dernierPoint": 61.51,
@@ -737,8 +737,8 @@
    "veille": 61.22
   },
   "ptpxh": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 60.2,
    "date": "2026-10-12",
    "dernierPoint": 60.2,
@@ -751,8 +751,8 @@
    "veille": 59.57
   },
   "pust": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 110.26,
    "date": "2026-10-12",
    "dernierPoint": 110.26,
@@ -765,8 +765,8 @@
    "veille": 110.44
   },
   "quadient": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 14.8,
    "date": "2026-10-12",
    "dernierPoint": 14.8,
@@ -779,8 +779,8 @@
    "veille": 15.2
   },
   "remx": {
-   "ageMin": 323,
-   "avantOuverture": false,
+   "ageMin": 422,
+   "avantOuverture": true,
    "cours": 10.274,
    "date": "2026-10-12",
    "dernierPoint": 10.274,
@@ -793,8 +793,8 @@
    "veille": 10.714
   },
   "renault": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 26.84,
    "date": "2026-10-12",
    "dernierPoint": 26.84,
@@ -807,8 +807,8 @@
    "veille": 26.5
   },
   "rising-stone": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 46.5,
    "date": "2026-10-12",
    "dernierPoint": 46.5,
@@ -821,8 +821,8 @@
    "veille": 45.5
   },
   "robertet": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 769.0,
    "date": "2026-10-12",
    "dernierPoint": 769.0,
@@ -835,8 +835,8 @@
    "veille": 774.0
   },
   "rubis": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 34.58,
    "date": "2026-10-12",
    "dernierPoint": 34.58,
@@ -849,8 +849,8 @@
    "veille": 34.54
   },
   "safran": {
-   "ageMin": 314,
-   "avantOuverture": false,
+   "ageMin": 413,
+   "avantOuverture": true,
    "cours": 318.4,
    "date": "2026-10-12",
    "dernierPoint": 318.4,
@@ -863,8 +863,8 @@
    "veille": 316.2
   },
   "saint-gobain": {
-   "ageMin": 313,
-   "avantOuverture": false,
+   "ageMin": 412,
+   "avantOuverture": true,
    "cours": 65.2,
    "date": "2026-10-12",
    "dernierPoint": 65.2,
@@ -877,8 +877,8 @@
    "veille": 64.94
   },
   "sanofi": {
-   "ageMin": 312,
-   "avantOuverture": false,
+   "ageMin": 411,
+   "avantOuverture": true,
    "cours": 71.6,
    "date": "2026-10-12",
    "dernierPoint": 71.6,
@@ -891,8 +891,8 @@
    "veille": 71.52
   },
   "scor": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 32.68,
    "date": "2026-10-12",
    "dernierPoint": 32.68,
@@ -905,8 +905,8 @@
    "veille": 31.92
   },
   "semco": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 45.7,
    "date": "2026-10-12",
    "dernierPoint": 45.7,
@@ -919,8 +919,8 @@
    "veille": 46.45
   },
   "societe-generale": {
-   "ageMin": 314,
-   "avantOuverture": false,
+   "ageMin": 413,
+   "avantOuverture": true,
    "cours": 64.17,
    "date": "2026-10-12",
    "dernierPoint": 64.17,
@@ -933,8 +933,8 @@
    "veille": 63.04
   },
   "spie": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 41.82,
    "date": "2026-10-12",
    "dernierPoint": 41.82,
@@ -947,8 +947,8 @@
    "veille": 42.14
   },
   "stellantis": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 3.968,
    "date": "2026-10-12",
    "dernierPoint": 3.968,
@@ -961,8 +961,8 @@
    "veille": 4.0045
   },
   "stif": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 16.81,
    "date": "2026-10-12",
    "dernierPoint": 16.81,
@@ -975,8 +975,8 @@
    "veille": 16.8
   },
   "stmicroelectronics": {
-   "ageMin": 311,
-   "avantOuverture": false,
+   "ageMin": 410,
+   "avantOuverture": true,
    "cours": 45.565,
    "date": "2026-10-12",
    "dernierPoint": 45.565,
@@ -989,8 +989,8 @@
    "veille": 46.545
   },
   "sword": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 29.9,
    "date": "2026-10-12",
    "dernierPoint": 29.9,
@@ -1003,8 +1003,8 @@
    "veille": 29.85
   },
   "technip-energies": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 29.48,
    "date": "2026-10-12",
    "dernierPoint": 29.48,
@@ -1017,8 +1017,8 @@
    "veille": 29.14
   },
   "tf1": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 5.785,
    "date": "2026-10-12",
    "dernierPoint": 5.785,
@@ -1031,8 +1031,8 @@
    "veille": 5.88
   },
   "totalenergies": {
-   "ageMin": 312,
-   "avantOuverture": false,
+   "ageMin": 411,
+   "avantOuverture": true,
    "cours": 78.98,
    "date": "2026-10-12",
    "dernierPoint": 78.98,
@@ -1045,8 +1045,8 @@
    "veille": 78.53
   },
   "traton": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 33.66,
    "date": "2026-10-12",
    "dernierPoint": 33.66,
@@ -1059,8 +1059,8 @@
    "veille": 33.46
   },
   "trigano": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 125.1,
    "date": "2026-10-12",
    "dernierPoint": 125.1,
@@ -1073,8 +1073,8 @@
    "veille": 125.3
   },
   "umg": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 14.91,
    "date": "2026-10-12",
    "dernierPoint": 14.91,
@@ -1087,8 +1087,8 @@
    "veille": 14.9
   },
   "veolia": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 31.28,
    "date": "2026-10-12",
    "dernierPoint": 31.28,
@@ -1101,8 +1101,8 @@
    "veille": 31.09
   },
   "vinci": {
-   "ageMin": 314,
-   "avantOuverture": false,
+   "ageMin": 413,
+   "avantOuverture": true,
    "cours": 107.6,
    "date": "2026-10-12",
    "dernierPoint": 107.6,
@@ -1115,8 +1115,8 @@
    "veille": 107.05
   },
   "wavestone": {
-   "ageMin": 315,
-   "avantOuverture": false,
+   "ageMin": 414,
+   "avantOuverture": true,
    "cours": 30.0,
    "date": "2026-10-12",
    "dernierPoint": 30.0,
@@ -1129,6 +1129,6 @@
    "veille": 29.85
   }
  },
- "releve": "2026-10-12 22:50",
+ "releve": "2026-10-13 00:29",
  "source": "Yahoo Finance API v8 chart (regularMarketPrice / regularMarketTime)"
 }
