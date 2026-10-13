@@ -1,4 +1,4 @@
-releve=2026-10-13 00:29 (heure de Paris)
+releve=2026-10-13 06:17 (heure de Paris)
 id;cours_eur;date;heure;variation_pct;avantOuverture;cours_devise;taux
 abionyx;1.52;2026-10-12;17:35;-1.3;oui;;
 abivax;78.2;2026-10-12;17:35;-1.01;oui;;
@@ -29,17 +29,18 @@ equasens;28.95;2026-10-12;17:35;0.87;oui;;
 essilorluxottica;146.75;2026-10-12;17:36;0.27;oui;;
 figeac-aero;11.1;2026-10-12;17:35;2.21;oui;;
 fountaine-pajot;74.1;2026-10-12;17:35;-0.67;oui;;
-ge-healthcare;60.688;2026-10-12;22:00;3.04;non;67.74;1.1162
+ge-healthcare;60.612;2026-10-12;22:00;3.04;oui;67.74;1.1176
 genfit;8.41;2026-10-12;17:35;1.57;oui;;
 gl-events;24.35;2026-10-12;17:35;0.21;oui;;
 gtt;216.6;2026-10-12;17:37;0.09;oui;;
 guillin;19.3;2026-10-12;17:35;-1.03;oui;;
 hermes;1310.0;2026-10-12;17:38;2.1;oui;;
-hoegh-autoliners;17.2323;2026-10-12;16:25;-0.33;oui;184.0;10.6776
+hoegh-autoliners;17.2154;2026-10-12;16:25;-0.33;oui;184.0;10.6881
 indice-stoxx600;635.65;2026-10-12;18:00;0.65;oui;;
 infotel;39.15;2026-10-12;17:36;3.03;oui;;
 ipsen;144.1;2026-10-12;17:35;0.98;oui;;
 jacquet-metals;20.0;2026-10-12;17:35;1.73;oui;;
+lighton;2.1;2026-10-12;17:35;-8.1;oui;;
 lithium-batteries;25.3852;2026-10-12;17:20;-1.71;oui;;
 lvmh;384.5;2026-10-12;17:39;1.18;oui;;
 maurel-prom;8.17;2026-10-12;17:35;-0.12;oui;;
