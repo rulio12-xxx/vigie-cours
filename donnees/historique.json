@@ -1,5 +1,5 @@
 {
- "genere": "2026-10-13T04:14+00:00",
+ "genere": "2026-10-13T04:20+00:00",
  "lignes": {
   "abionyx": {
    "ticker": "ABNX.PA",
@@ -1133,6 +1133,24 @@
     "minDate": "2026-10-09",
     "max": 9.35,
     "maxDate": "2026-06-22"
+   }
+  },
+  "witbe": {
+   "ticker": "ALWIT.PA",
+   "devise": "EUR",
+   "dernier": 4.15,
+   "dernierDate": "2026-10-09",
+   "m8": {
+    "min": 1.375,
+    "minDate": "2026-04-15",
+    "max": 4.65,
+    "maxDate": "2026-09-29"
+   },
+   "m12": {
+    "min": 1.345,
+    "minDate": "2026-01-21",
+    "max": 4.65,
+    "maxDate": "2026-09-29"
    }
   },
   "amundi-cac40": {
