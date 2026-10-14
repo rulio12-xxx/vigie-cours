@@ -1,4 +1,4 @@
-releve=2026-10-14 22:30 (heure de Paris)
+releve=2026-10-14 22:40 (heure de Paris)
 id;cours_eur;date;heure;variation_pct;avantOuverture;cours_devise;taux
 abionyx;1.442;2026-10-14;17:35;0.7;non;;
 abivax;79.25;2026-10-14;17:39;2.99;non;;
@@ -36,7 +36,7 @@ gl-events;24.35;2026-10-14;17:35;0.21;non;;
 gtt;213.2;2026-10-14;17:35;-1.11;non;;
 guillin;19.3;2026-10-14;17:35;0.0;non;;
 hermes;1295.5;2026-10-14;17:37;0.86;non;;
-hoegh-autoliners;17.5853;2026-10-14;16:25;-1.16;non;186.7;10.6168
+hoegh-autoliners;17.585;2026-10-14;16:25;-1.16;non;186.7;10.617
 indice-stoxx600;637.75;2026-10-14;18:00;0.43;non;;
 infotel;38.55;2026-10-14;17:35;-0.13;non;;
 ipsen;145.6;2026-10-14;17:35;2.1;non;;
