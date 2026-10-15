@@ -1,0 +1,24 @@
+name: Moyennes mensuelles (ponctuel)
+on:
+  workflow_dispatch:
+    inputs:
+      ticker: {description: "Ticker Yahoo", required: true}
+      mois: {description: "Mois (1-12), vide = tous", required: false, default: ""}
+permissions:
+  contents: write
+concurrency:
+  group: cours
+  cancel-in-progress: false
+jobs:
+  mensuel:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install --quiet curl_cffi
+      - run: cd scripts && python3 mensuel.py /tmp/mensuel.json "${{ inputs.ticker }}" ${{ inputs.mois }}
+      - run: |
+          git clone -q --depth 1 --branch cours "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" /tmp/pub
+          cd /tmp/pub && mkdir -p donnees && cp /tmp/mensuel.json donnees/mensuel.json && git add donnees/mensuel.json
+          git -c user.name="vigie-bot" -c user.email="vigie-bot@users.noreply.github.com" commit -q -m "Moyennes mensuelles ${{ inputs.ticker }}" || echo rien
+          git push -q origin cours
