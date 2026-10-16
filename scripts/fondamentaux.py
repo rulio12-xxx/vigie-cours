@@ -40,7 +40,7 @@ def resume(sym):
 def main(out, ids):
     res, err = {}, {}
     for i in ids:
-        t = cours.TICKERS[i][0]
+        t = cours.TICKERS[i][0] if i in cours.TICKERS else (i if "." in i else i + ".PA")
         try:
             res[i] = {"ticker": t, "annuel": serie(t), **resume(t)}
         except Exception as e:  # noqa: BLE001
