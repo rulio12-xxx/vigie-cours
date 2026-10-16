@@ -1,11 +1,11 @@
 {
- "genere": "2026-10-16T04:58+00:00",
+ "genere": "2026-10-16T07:39+00:00",
  "lignes": {
   "abionyx": {
    "ticker": "ABNX.PA",
    "devise": "EUR",
-   "dernier": 1.442,
-   "dernierDate": "2026-10-14",
+   "dernier": 1.492,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 1.432,
     "minDate": "2026-10-13",
@@ -22,8 +22,8 @@
   "abivax": {
    "ticker": "ABVX.PA",
    "devise": "EUR",
-   "dernier": 79.25,
-   "dernierDate": "2026-10-14",
+   "dernier": 81.55,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 63.1,
     "minDate": "2026-06-02",
@@ -40,26 +40,26 @@
   "alten": {
    "ticker": "ATE.PA",
    "devise": "EUR",
-   "dernier": 84.5,
-   "dernierDate": "2026-10-14",
+   "dernier": 85.5,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 51.6,
     "minDate": "2026-03-30",
-    "max": 84.5,
-    "maxDate": "2026-10-14"
+    "max": 85.5,
+    "maxDate": "2026-10-16"
    },
    "m12": {
     "min": 51.6,
     "minDate": "2026-03-30",
-    "max": 84.5,
-    "maxDate": "2026-10-14"
+    "max": 85.5,
+    "maxDate": "2026-10-16"
    }
   },
   "aubay": {
    "ticker": "AUB.PA",
    "devise": "EUR",
-   "dernier": 49.55,
-   "dernierDate": "2026-10-14",
+   "dernier": 49.85,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 40.5,
     "minDate": "2026-03-30",
@@ -76,8 +76,8 @@
   "biomerieux": {
    "ticker": "BIM.PA",
    "devise": "EUR",
-   "dernier": 85.65,
-   "dernierDate": "2026-10-14",
+   "dernier": 87.35,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 66.6,
     "minDate": "2026-06-23",
@@ -94,8 +94,8 @@
   "bnp-paribas": {
    "ticker": "BNP.PA",
    "devise": "EUR",
-   "dernier": 89.59,
-   "dernierDate": "2026-10-14",
+   "dernier": 89.78,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 80.92,
     "minDate": "2026-03-30",
@@ -112,8 +112,8 @@
   "coface": {
    "ticker": "COFA.PA",
    "devise": "EUR",
-   "dernier": 15.86,
-   "dernierDate": "2026-10-14",
+   "dernier": 15.98,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 14.5,
     "minDate": "2026-03-13",
@@ -130,8 +130,8 @@
   "eiffage": {
    "ticker": "FGR.PA",
    "devise": "EUR",
-   "dernier": 99.46,
-   "dernierDate": "2026-10-14",
+   "dernier": 100.45,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 98.72,
     "minDate": "2026-10-09",
@@ -148,8 +148,8 @@
   "elis": {
    "ticker": "ELIS.PA",
    "devise": "EUR",
-   "dernier": 21.82,
-   "dernierDate": "2026-10-14",
+   "dernier": 22.2,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 20.98,
     "minDate": "2026-09-21",
@@ -166,8 +166,8 @@
   "engie": {
    "ticker": "ENGI.PA",
    "devise": "EUR",
-   "dernier": 23.3,
-   "dernierDate": "2026-10-14",
+   "dernier": 23.17,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 22.52,
     "minDate": "2026-10-01",
@@ -184,8 +184,8 @@
   "equasens": {
    "ticker": "EQS.PA",
    "devise": "EUR",
-   "dernier": 28.5,
-   "dernierDate": "2026-10-14",
+   "dernier": 28.75,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 28.4,
     "minDate": "2026-10-08",
@@ -202,8 +202,8 @@
   "essilorluxottica": {
    "ticker": "EL.PA",
    "devise": "EUR",
-   "dernier": 148.1,
-   "dernierDate": "2026-10-14",
+   "dernier": 150.5,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 139.0,
     "minDate": "2026-09-18",
@@ -220,8 +220,8 @@
   "fountaine-pajot": {
    "ticker": "ALFPC.PA",
    "devise": "EUR",
-   "dernier": 74.8,
-   "dernierDate": "2026-10-14",
+   "dernier": 74.2,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 72.8,
     "minDate": "2026-10-08",
@@ -238,8 +238,8 @@
   "gtt": {
    "ticker": "GTT.PA",
    "devise": "EUR",
-   "dernier": 213.2,
-   "dernierDate": "2026-10-14",
+   "dernier": 210.6,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 180.4,
     "minDate": "2026-02-17",
@@ -256,8 +256,8 @@
   "infotel": {
    "ticker": "INF.PA",
    "devise": "EUR",
-   "dernier": 38.55,
-   "dernierDate": "2026-10-14",
+   "dernier": 38.75,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 34.3,
     "minDate": "2026-02-24",
@@ -274,8 +274,8 @@
   "ipsen": {
    "ticker": "IPN.PA",
    "devise": "EUR",
-   "dernier": 145.6,
-   "dernierDate": "2026-10-14",
+   "dernier": 147.8,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 139.6,
     "minDate": "2026-10-02",
@@ -292,8 +292,8 @@
   "maurel-prom": {
    "ticker": "MAU.PA",
    "devise": "EUR",
-   "dernier": 8.295,
-   "dernierDate": "2026-10-14",
+   "dernier": 8.08,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 7.505,
     "minDate": "2026-02-17",
@@ -310,8 +310,8 @@
   "nexans": {
    "ticker": "NEX.PA",
    "devise": "EUR",
-   "dernier": 129.3,
-   "dernierDate": "2026-10-14",
+   "dernier": 127.2,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 112.6,
     "minDate": "2026-03-20",
@@ -328,8 +328,8 @@
   "pernod-ricard": {
    "ticker": "RI.PA",
    "devise": "EUR",
-   "dernier": 66.1,
-   "dernierDate": "2026-10-14",
+   "dernier": 67.68,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 58.04,
     "minDate": "2026-10-05",
@@ -346,8 +346,8 @@
   "renault": {
    "ticker": "RNO.PA",
    "devise": "EUR",
-   "dernier": 26.47,
-   "dernierDate": "2026-10-14",
+   "dernier": 27.13,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 24.68,
     "minDate": "2026-10-02",
@@ -364,8 +364,8 @@
   "robertet": {
    "ticker": "RBT.PA",
    "devise": "EUR",
-   "dernier": 773.0,
-   "dernierDate": "2026-10-14",
+   "dernier": 774.0,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 727.0,
     "minDate": "2026-09-18",
@@ -382,8 +382,8 @@
   "safran": {
    "ticker": "SAF.PA",
    "devise": "EUR",
-   "dernier": 314.9,
-   "dernierDate": "2026-10-14",
+   "dernier": 318.5,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 265.2,
     "minDate": "2026-05-04",
@@ -400,8 +400,8 @@
   "saint-gobain": {
    "ticker": "SGO.PA",
    "devise": "EUR",
-   "dernier": 65.64,
-   "dernierDate": "2026-10-14",
+   "dernier": 66.26,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 64.76,
     "minDate": "2026-10-07",
@@ -418,8 +418,8 @@
   "sanofi": {
    "ticker": "SAN.PA",
    "devise": "EUR",
-   "dernier": 71.82,
-   "dernierDate": "2026-10-14",
+   "dernier": 71.78,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 69.99,
     "minDate": "2026-10-05",
@@ -436,8 +436,8 @@
   "scor": {
    "ticker": "SCR.PA",
    "devise": "EUR",
-   "dernier": 33.26,
-   "dernierDate": "2026-10-14",
+   "dernier": 33.44,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 28.84,
     "minDate": "2026-02-16",
@@ -454,8 +454,8 @@
   "semco": {
    "ticker": "ALSEM.PA",
    "devise": "EUR",
-   "dernier": 43.55,
-   "dernierDate": "2026-10-14",
+   "dernier": 40.5,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 31.055,
     "minDate": "2026-03-13",
@@ -472,8 +472,8 @@
   "societe-generale": {
    "ticker": "GLE.PA",
    "devise": "EUR",
-   "dernier": 64.42,
-   "dernierDate": "2026-10-14",
+   "dernier": 65.0,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 60.98,
     "minDate": "2026-03-20",
@@ -490,8 +490,8 @@
   "stellantis": {
    "ticker": "STLAP.PA",
    "devise": "EUR",
-   "dernier": 3.8335,
-   "dernierDate": "2026-10-14",
+   "dernier": 3.9145,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 3.8335,
     "minDate": "2026-10-14",
@@ -508,8 +508,8 @@
   "sword": {
    "ticker": "SWP.PA",
    "devise": "EUR",
-   "dernier": 30.15,
-   "dernierDate": "2026-10-14",
+   "dernier": 29.6,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 28.4,
     "minDate": "2026-07-23",
@@ -526,8 +526,8 @@
   "technip-energies": {
    "ticker": "TE.PA",
    "devise": "EUR",
-   "dernier": 30.2,
-   "dernierDate": "2026-10-14",
+   "dernier": 30.02,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 28.04,
     "minDate": "2026-10-02",
@@ -544,8 +544,8 @@
   "totalenergies": {
    "ticker": "TTE.PA",
    "devise": "EUR",
-   "dernier": 80.17,
-   "dernierDate": "2026-10-14",
+   "dernier": 79.96,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 64.16,
     "minDate": "2026-02-16",
@@ -562,8 +562,8 @@
   "trigano": {
    "ticker": "TRI.PA",
    "devise": "EUR",
-   "dernier": 125.0,
-   "dernierDate": "2026-10-14",
+   "dernier": 127.0,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 125.0,
     "minDate": "2026-10-14",
@@ -580,8 +580,8 @@
   "umg": {
    "ticker": "UMG.AS",
    "devise": "EUR",
-   "dernier": 15.23,
-   "dernierDate": "2026-10-14",
+   "dernier": 15.76,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 14.02,
     "minDate": "2026-09-10",
@@ -598,8 +598,8 @@
   "wavestone": {
    "ticker": "WAVE.PA",
    "devise": "EUR",
-   "dernier": 29.35,
-   "dernierDate": "2026-10-14",
+   "dernier": 30.2,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 28.95,
     "minDate": "2026-09-18",
@@ -616,8 +616,8 @@
   "stmicroelectronics": {
    "ticker": "STMPA.PA",
    "devise": "EUR",
-   "dernier": 43.03,
-   "dernierDate": "2026-10-14",
+   "dernier": 41.37,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 26.92,
     "minDate": "2026-03-20",
@@ -634,8 +634,8 @@
   "opmobility": {
    "ticker": "OPM.PA",
    "devise": "EUR",
-   "dernier": 9.5,
-   "dernierDate": "2026-10-14",
+   "dernier": 9.635,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 9.4,
     "minDate": "2026-10-12",
@@ -652,8 +652,8 @@
   "air-liquide": {
    "ticker": "AI.PA",
    "devise": "EUR",
-   "dernier": 170.34,
-   "dernierDate": "2026-10-14",
+   "dernier": 172.12,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 150.3455,
     "minDate": "2026-03-09",
@@ -670,8 +670,8 @@
   "gl-events": {
    "ticker": "GLO.PA",
    "devise": "EUR",
-   "dernier": 24.35,
-   "dernierDate": "2026-10-14",
+   "dernier": 31.25,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 23.65,
     "minDate": "2026-10-08",
@@ -688,8 +688,8 @@
   "guillin": {
    "ticker": "ALGIL.PA",
    "devise": "EUR",
-   "dernier": 19.3,
-   "dernierDate": "2026-10-14",
+   "dernier": 19.25,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 19.15,
     "minDate": "2026-10-08",
@@ -706,8 +706,8 @@
   "jacquet-metals": {
    "ticker": "JCQ.PA",
    "devise": "EUR",
-   "dernier": 20.15,
-   "dernierDate": "2026-10-14",
+   "dernier": 20.25,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 19.5,
     "minDate": "2026-10-02",
@@ -724,8 +724,8 @@
   "ayvens": {
    "ticker": "AYV.PA",
    "devise": "EUR",
-   "dernier": 8.725,
-   "dernierDate": "2026-10-14",
+   "dernier": 8.96,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 8.6,
     "minDate": "2026-10-08",
@@ -742,8 +742,8 @@
   "quadient": {
    "ticker": "QDT.PA",
    "devise": "EUR",
-   "dernier": 14.68,
-   "dernierDate": "2026-10-14",
+   "dernier": 14.78,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 10.78,
     "minDate": "2026-03-31",
@@ -760,8 +760,8 @@
   "traton": {
    "ticker": "8TRA.DE",
    "devise": "EUR",
-   "dernier": 33.0,
-   "dernierDate": "2026-10-14",
+   "dernier": 33.9,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 29.0,
     "minDate": "2026-03-20",
@@ -778,8 +778,8 @@
   "vinci": {
    "ticker": "DG.PA",
    "devise": "EUR",
-   "dernier": 106.4,
-   "dernierDate": "2026-10-14",
+   "dernier": 107.25,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 105.6,
     "minDate": "2026-10-01",
@@ -796,8 +796,8 @@
   "lvmh": {
    "ticker": "MC.PA",
    "devise": "EUR",
-   "dernier": 389.55,
-   "dernierDate": "2026-10-14",
+   "dernier": 393.95,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 378.55,
     "minDate": "2026-10-02",
@@ -814,8 +814,8 @@
   "hermes": {
    "ticker": "RMS.PA",
    "devise": "EUR",
-   "dernier": 1295.5,
-   "dernierDate": "2026-10-14",
+   "dernier": 1328.0,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 1262.5,
     "minDate": "2026-10-08",
@@ -832,8 +832,8 @@
   "danone": {
    "ticker": "BN.PA",
    "devise": "EUR",
-   "dernier": 60.28,
-   "dernierDate": "2026-10-14",
+   "dernier": 61.28,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 57.58,
     "minDate": "2026-10-01",
@@ -850,8 +850,8 @@
   "bouygues": {
    "ticker": "EN.PA",
    "devise": "EUR",
-   "dernier": 40.26,
-   "dernierDate": "2026-10-14",
+   "dernier": 41.12,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 40.26,
     "minDate": "2026-10-14",
@@ -868,8 +868,8 @@
   "adp": {
    "ticker": "ADP.PA",
    "devise": "EUR",
-   "dernier": 105.3,
-   "dernierDate": "2026-10-14",
+   "dernier": 107.5,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 100.8,
     "minDate": "2026-04-29",
@@ -886,13 +886,13 @@
   "capgemini": {
    "ticker": "CAP.PA",
    "devise": "EUR",
-   "dernier": 118.0,
-   "dernierDate": "2026-10-14",
+   "dernier": 122.8,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 86.06,
     "minDate": "2026-07-23",
-    "max": 119.3,
-    "maxDate": "2026-10-13"
+    "max": 122.8,
+    "maxDate": "2026-10-16"
    },
    "m12": {
     "min": 86.06,
@@ -904,8 +904,8 @@
   "spie": {
    "ticker": "SPIE.PA",
    "devise": "EUR",
-   "dernier": 41.98,
-   "dernierDate": "2026-10-14",
+   "dernier": 41.7,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 41.06,
     "minDate": "2026-10-01",
@@ -922,8 +922,8 @@
   "tf1": {
    "ticker": "TFI.PA",
    "devise": "EUR",
-   "dernier": 5.795,
-   "dernierDate": "2026-10-14",
+   "dernier": 5.905,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 5.76,
     "minDate": "2026-10-13",
@@ -940,8 +940,8 @@
   "carmila": {
    "ticker": "CARM.PA",
    "devise": "EUR",
-   "dernier": 14.54,
-   "dernierDate": "2026-10-14",
+   "dernier": 14.6,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 14.14,
     "minDate": "2026-10-07",
@@ -958,8 +958,8 @@
   "covivio": {
    "ticker": "COV.PA",
    "devise": "EUR",
-   "dernier": 43.88,
-   "dernierDate": "2026-10-14",
+   "dernier": 43.9,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 42.64,
     "minDate": "2026-10-12",
@@ -976,8 +976,8 @@
   "rubis": {
    "ticker": "RUI.PA",
    "devise": "EUR",
-   "dernier": 35.32,
-   "dernierDate": "2026-10-14",
+   "dernier": 35.26,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 30.7,
     "minDate": "2026-06-30",
@@ -994,11 +994,11 @@
   "credit-agricole": {
    "ticker": "ACA.PA",
    "devise": "EUR",
-   "dernier": 15.805,
-   "dernierDate": "2026-10-14",
+   "dernier": 15.7,
+   "dernierDate": "2026-10-16",
    "m8": {
-    "min": 15.805,
-    "minDate": "2026-10-14",
+    "min": 15.7,
+    "minDate": "2026-10-16",
     "max": 20.2,
     "maxDate": "2026-08-14"
    },
@@ -1012,8 +1012,8 @@
   "genfit": {
    "ticker": "GNFT.PA",
    "devise": "EUR",
-   "dernier": 7.83,
-   "dernierDate": "2026-10-14",
+   "dernier": 8.16,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 7.45,
     "minDate": "2026-04-07",
@@ -1030,8 +1030,8 @@
   "figeac-aero": {
    "ticker": "FGA.PA",
    "devise": "EUR",
-   "dernier": 11.1,
-   "dernierDate": "2026-10-14",
+   "dernier": 10.8,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 9.14,
     "minDate": "2026-04-07",
@@ -1048,8 +1048,8 @@
   "rising-stone": {
    "ticker": "ALRIS.PA",
    "devise": "EUR",
-   "dernier": 42.9,
-   "dernierDate": "2026-10-14",
+   "dernier": 41.6,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 39.4,
     "minDate": "2026-09-28",
@@ -1066,8 +1066,8 @@
   "veolia": {
    "ticker": "VIE.PA",
    "devise": "EUR",
-   "dernier": 32.09,
-   "dernierDate": "2026-10-14",
+   "dernier": 32.44,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 30.46,
     "minDate": "2026-10-05",
@@ -1084,8 +1084,8 @@
   "michelin": {
    "ticker": "ML.PA",
    "devise": "EUR",
-   "dernier": 33.85,
-   "dernierDate": "2026-10-14",
+   "dernier": 34.09,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 28.45,
     "minDate": "2026-03-20",
@@ -1102,8 +1102,8 @@
   "stif": {
    "ticker": "ALSTI.PA",
    "devise": "EUR",
-   "dernier": 16.55,
-   "dernierDate": "2026-10-14",
+   "dernier": 17.01,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 15.87,
     "minDate": "2026-10-13",
@@ -1120,17 +1120,17 @@
   "lighton": {
    "ticker": "ALTAI.PA",
    "devise": "EUR",
-   "dernier": 2.05,
-   "dernierDate": "2026-10-14",
+   "dernier": 1.938,
+   "dernierDate": "2026-10-16",
    "m8": {
-    "min": 2.05,
-    "minDate": "2026-10-14",
+    "min": 1.938,
+    "minDate": "2026-10-16",
     "max": 9.35,
     "maxDate": "2026-06-22"
    },
    "m12": {
-    "min": 2.05,
-    "minDate": "2026-10-14",
+    "min": 1.938,
+    "minDate": "2026-10-16",
     "max": 9.35,
     "maxDate": "2026-06-22"
    }
@@ -1138,8 +1138,8 @@
   "witbe": {
    "ticker": "ALWIT.PA",
    "devise": "EUR",
-   "dernier": 4.0,
-   "dernierDate": "2026-10-14",
+   "dernier": 3.99,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 1.375,
     "minDate": "2026-04-15",
@@ -1156,8 +1156,8 @@
   "amundi-new-energy": {
    "ticker": "NRJ.PA",
    "devise": "EUR",
-   "dernier": 40.35,
-   "dernierDate": "2026-10-14",
+   "dernier": 39.55,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 37.998,
     "minDate": "2026-03-09",
@@ -1174,8 +1174,8 @@
   "bastide": {
    "ticker": "BLC.PA",
    "devise": "EUR",
-   "dernier": 18.3,
-   "dernierDate": "2026-10-14",
+   "dernier": 18.12,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 17.8,
     "minDate": "2026-10-07",
@@ -1192,8 +1192,8 @@
   "clariane": {
    "ticker": "CLARI.PA",
    "devise": "EUR",
-   "dernier": 3.352,
-   "dernierDate": "2026-10-14",
+   "dernier": 3.39,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 3.218,
     "minDate": "2026-10-02",
@@ -1210,17 +1210,17 @@
   "guerbet": {
    "ticker": "GBT.PA",
    "devise": "EUR",
-   "dernier": 6.3,
-   "dernierDate": "2026-10-14",
+   "dernier": 6.23,
+   "dernierDate": "2026-10-16",
    "m8": {
-    "min": 6.3,
-    "minDate": "2026-10-13",
+    "min": 6.23,
+    "minDate": "2026-10-16",
     "max": 13.72,
     "maxDate": "2026-02-18"
    },
    "m12": {
-    "min": 6.3,
-    "minDate": "2026-10-13",
+    "min": 6.23,
+    "minDate": "2026-10-16",
     "max": 18.02,
     "maxDate": "2025-11-27"
    }
@@ -1228,8 +1228,8 @@
   "lna-sante": {
    "ticker": "LNA.PA",
    "devise": "EUR",
-   "dernier": 23.6,
-   "dernierDate": "2026-10-14",
+   "dernier": 23.3,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 22.9,
     "minDate": "2026-10-07",
@@ -1246,8 +1246,8 @@
   "ramsay-sante": {
    "ticker": "GDS.PA",
    "devise": "EUR",
-   "dernier": 9.82,
-   "dernierDate": "2026-10-14",
+   "dernier": 9.62,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 9.5,
     "minDate": "2026-10-01",
@@ -1264,8 +1264,8 @@
   "sartorius-stedim": {
    "ticker": "DIM.PA",
    "devise": "EUR",
-   "dernier": 216.4,
-   "dernierDate": "2026-10-14",
+   "dernier": 218.8,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 151.5,
     "minDate": "2026-04-29",
@@ -1282,8 +1282,8 @@
   "vetoquinol": {
    "ticker": "VETO.PA",
    "devise": "EUR",
-   "dernier": 78.1,
-   "dernierDate": "2026-10-14",
+   "dernier": 78.3,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 66.1,
     "minDate": "2026-09-10",
@@ -1300,8 +1300,8 @@
   "virbac": {
    "ticker": "VIRP.PA",
    "devise": "EUR",
-   "dernier": 335.0,
-   "dernierDate": "2026-10-14",
+   "dernier": 337.5,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 302.0,
     "minDate": "2026-09-10",
@@ -1318,8 +1318,8 @@
   "franklin-china": {
    "ticker": "FLXC.DE",
    "devise": "EUR",
-   "dernier": 25.09,
-   "dernierDate": "2026-10-14",
+   "dernier": 24.8,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 24.44,
     "minDate": "2026-06-29",
@@ -1333,29 +1333,29 @@
     "maxDate": "2025-10-27"
    }
   },
-  "jepq": {
-   "ticker": "JEPQ.MI",
+  "eutelsat": {
+   "ticker": "ETL.PA",
    "devise": "EUR",
-   "dernier": 24.695,
-   "dernierDate": "2026-10-14",
+   "dernier": 1.682,
+   "dernierDate": "2026-10-16",
    "m8": {
-    "min": 21.33,
-    "minDate": "2026-03-30",
-    "max": 25.07,
-    "maxDate": "2026-10-07"
+    "min": 1.3695,
+    "minDate": "2026-10-13",
+    "max": 4.51,
+    "maxDate": "2026-05-28"
    },
    "m12": {
-    "min": 21.33,
-    "minDate": "2026-03-30",
-    "max": 25.07,
-    "maxDate": "2026-10-07"
+    "min": 1.3695,
+    "minDate": "2026-10-13",
+    "max": 4.51,
+    "maxDate": "2026-05-28"
    }
   },
   "franklin-asia": {
    "ticker": "FVSJ.DE",
    "devise": "EUR",
-   "dernier": 38.335,
-   "dernierDate": "2026-10-14",
+   "dernier": 37.155,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 28.615,
     "minDate": "2026-03-31",
@@ -1372,8 +1372,8 @@
   "amundi-cac40": {
    "ticker": "CACC.PA",
    "devise": "EUR",
-   "dernier": 40.025,
-   "dernierDate": "2026-10-14",
+   "dernier": 40.26,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 38.035,
     "minDate": "2026-03-20",
@@ -1390,8 +1390,8 @@
   "amundi-dax": {
    "ticker": "DAX.PA",
    "devise": "EUR",
-   "dernier": 230.1,
-   "dernierDate": "2026-10-14",
+   "dernier": 232.0,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 203.6,
     "minDate": "2026-03-27",
@@ -1408,8 +1408,8 @@
   "amundi-gold": {
    "ticker": "GLDA.DE",
    "devise": "EUR",
-   "dernier": 145.66,
-   "dernierDate": "2026-10-14",
+   "dernier": 147.35,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 138.94,
     "minDate": "2026-07-17",
@@ -1426,8 +1426,8 @@
   "amundi-msci-world": {
    "ticker": "WLD.PA",
    "devise": "EUR",
-   "dernier": 443.93,
-   "dernierDate": "2026-10-14",
+   "dernier": 441.36,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 361.64,
     "minDate": "2026-03-27",
@@ -1444,8 +1444,8 @@
   "copap": {
    "ticker": "COPAP.PA",
    "devise": "EUR",
-   "dernier": 51.11,
-   "dernierDate": "2026-10-14",
+   "dernier": 50.18,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 40.465,
     "minDate": "2026-03-20",
@@ -1462,8 +1462,8 @@
   "dcam": {
    "ticker": "DCAM.PA",
    "devise": "EUR",
-   "dernier": 6.396,
-   "dernierDate": "2026-10-14",
+   "dernier": 6.359,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 5.219,
     "minDate": "2026-03-27",
@@ -1480,11 +1480,11 @@
   "lithium-batteries": {
    "ticker": "BATT.AS",
    "devise": "EUR",
-   "dernier": 24.6501,
-   "dernierDate": "2026-10-14",
+   "dernier": 23.962,
+   "dernierDate": "2026-10-16",
    "m8": {
-    "min": 24.6501,
-    "minDate": "2026-10-14",
+    "min": 23.962,
+    "minDate": "2026-10-16",
     "max": 35.4904,
     "maxDate": "2026-05-11"
    },
@@ -1498,8 +1498,8 @@
   "mth-oblig-25y": {
    "ticker": "MTH.PA",
    "devise": "EUR",
-   "dernier": 68.0,
-   "dernierDate": "2026-10-14",
+   "dernier": 68.83,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 66.72,
     "minDate": "2026-10-01",
@@ -1516,8 +1516,8 @@
   "nucl": {
    "ticker": "NUCL.PA",
    "devise": "EUR",
-   "dernier": 40.466,
-   "dernierDate": "2026-10-14",
+   "dernier": 40.718,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 40.466,
     "minDate": "2026-10-14",
@@ -1534,8 +1534,8 @@
   "paasi": {
    "ticker": "PAASI.PA",
    "devise": "EUR",
-   "dernier": 39.255,
-   "dernierDate": "2026-10-14",
+   "dernier": 38.105,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 31.009,
     "minDate": "2026-03-31",
@@ -1552,8 +1552,8 @@
   "pceu": {
    "ticker": "PCEU.PA",
    "devise": "EUR",
-   "dernier": 39.44,
-   "dernierDate": "2026-10-14",
+   "dernier": 39.745,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 34.755,
     "minDate": "2026-03-20",
@@ -1570,8 +1570,8 @@
   "psp5": {
    "ticker": "PSP5.PA",
    "devise": "EUR",
-   "dernier": 61.24,
-   "dernierDate": "2026-10-14",
+   "dernier": 60.7,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 48.782,
     "minDate": "2026-03-27",
@@ -1588,8 +1588,8 @@
   "ptpxh": {
    "ticker": "PTPXH.PA",
    "devise": "EUR",
-   "dernier": 59.24,
-   "dernierDate": "2026-10-14",
+   "dernier": 59.09,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 50.068,
     "minDate": "2026-03-20",
@@ -1606,8 +1606,8 @@
   "pust": {
    "ticker": "PUST.PA",
    "devise": "EUR",
-   "dernier": 108.86,
-   "dernierDate": "2026-10-14",
+   "dernier": 107.1,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 81.17,
     "minDate": "2026-03-27",
@@ -1624,17 +1624,17 @@
   "remx": {
    "ticker": "REMX.PA",
    "devise": "EUR",
-   "dernier": 9.928,
-   "dernierDate": "2026-10-14",
+   "dernier": 9.6,
+   "dernierDate": "2026-10-16",
    "m8": {
-    "min": 9.928,
-    "minDate": "2026-10-14",
+    "min": 9.6,
+    "minDate": "2026-10-16",
     "max": 18.377,
     "maxDate": "2026-05-07"
    },
    "m12": {
-    "min": 9.928,
-    "minDate": "2026-10-14",
+    "min": 9.6,
+    "minDate": "2026-10-16",
     "max": 18.377,
     "maxDate": "2026-05-07"
    }
@@ -1660,8 +1660,8 @@
   "hoegh-autoliners": {
    "ticker": "HAUTO.OL",
    "devise": "NOK",
-   "dernier": 17.5664,
-   "dernierDate": "2026-10-14",
+   "dernier": 17.4877,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 10.1477,
     "minDate": "2026-02-17",
@@ -1678,8 +1678,8 @@
   "indice-stoxx600": {
    "ticker": "^STOXX",
    "devise": "EUR",
-   "dernier": 640.16,
-   "dernierDate": "2026-10-15",
+   "dernier": 642.35,
+   "dernierDate": "2026-10-16",
    "m8": {
     "min": 573.28,
     "minDate": "2026-03-20",
