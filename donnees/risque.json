@@ -1,16 +1,16 @@
 {
- "genere": "2026-10-16T18:51+00:00",
+ "genere": "2026-10-16T18:52+00:00",
  "indicateurs": {
   "sp500": {
-   "dernier": 7644.02,
+   "dernier": 7643.56,
    "date": "2026-10-16",
    "mm200": 7271.36,
-   "ecartMM200": 0.0513,
+   "ecartMM200": 0.0512,
    "plusHaut52s": 7818.93,
    "depuisPlusHaut": -0.0224
   },
   "vix": {
-   "dernier": 20.93,
+   "dernier": 20.89,
    "date": "2026-10-16"
   },
   "taux10ans": {
