@@ -2,6 +2,11 @@ name: Filtre grandes valeurs en baisse
 
 on:
   workflow_dispatch:
+    inputs:
+      liste:
+        description: "Tickers séparés par des espaces (vide = liste par défaut)"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -17,7 +22,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: pip install --quiet curl_cffi
-      - run: cd scripts && python3 screen.py /tmp/screen.json
+      - run: cd scripts && python3 screen.py /tmp/screen.json ${{ inputs.liste }}
       - name: Publication sur la branche « cours »
         run: |
           git clone -q --depth 1 --branch cours "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" /tmp/pub
