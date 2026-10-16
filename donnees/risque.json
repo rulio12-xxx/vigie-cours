@@ -1,27 +1,27 @@
 {
- "genere": "2026-10-16T18:41+00:00",
+ "genere": "2026-10-16T18:51+00:00",
  "indicateurs": {
   "sp500": {
-   "dernier": 7648.71,
+   "dernier": 7644.02,
    "date": "2026-10-16",
-   "mm200": 7271.38,
-   "ecartMM200": 0.0519,
+   "mm200": 7271.36,
+   "ecartMM200": 0.0513,
    "plusHaut52s": 7818.93,
-   "depuisPlusHaut": -0.0218
+   "depuisPlusHaut": -0.0224
   },
   "vix": {
-   "dernier": 21.3,
+   "dernier": 20.93,
    "date": "2026-10-16"
   },
   "taux10ans": {
-   "dernier": 5.102,
+   "dernier": 5.106,
    "date": "2026-10-16"
   },
   "taux3mois": {
    "dernier": 4.072,
    "date": "2026-10-16"
   },
-  "courbe10a3m": 1.03
+  "courbe10a3m": 1.034
  },
  "erreurs": {}
 }
