@@ -1,4 +1,4 @@
-releve=2026-10-16 18:10 (heure de Paris)
+releve=2026-10-16 18:20 (heure de Paris)
 id;cours_eur;date;heure;variation_pct;avantOuverture;cours_devise;taux
 abionyx;1.546;2026-10-16;17:35;4.18;non;;
 abivax;78.95;2026-10-16;17:35;-3.66;non;;
@@ -37,15 +37,15 @@ figeac-aero;10.74;2026-10-16;17:35;-0.19;non;;
 fountaine-pajot;74.8;2026-10-16;17:35;0.13;non;;
 franklin-asia;37.225;2026-10-16;17:35;0.0;non;;
 franklin-china;25.055;2026-10-16;17:36;0.0;non;;
-ge-healthcare;62.5957;2026-10-16;18:11;-0.08;non;70.295;1.123
+ge-healthcare;62.7316;2026-10-16;18:21;0.12;non;70.435;1.1228
 genfit;8.4;2026-10-16;17:35;3.19;non;;
 gl-events;31.4;2026-10-16;17:35;0.64;non;;
 gtt;211.6;2026-10-16;17:35;2.22;non;;
 guerbet;6.12;2026-10-16;17:35;-2.08;non;;
 guillin;19.05;2026-10-16;17:35;0.26;non;;
 hermes;1337.5;2026-10-16;17:35;-0.07;non;;
-hoegh-autoliners;17.6011;2026-10-16;16:25;-0.53;non;186.7;10.6073
-indice-stoxx600;644.74;2026-10-16;17:30;0.72;non;;
+hoegh-autoliners;17.6092;2026-10-16;16:25;-0.53;non;186.7;10.6024
+indice-stoxx600;644.74;2026-10-16;18:00;0.72;non;;
 infotel;38.65;2026-10-16;17:35;0.13;non;;
 ipsen;149.0;2026-10-16;17:35;0.34;non;;
 jacquet-metals;20.25;2026-10-16;17:35;2.07;non;;
