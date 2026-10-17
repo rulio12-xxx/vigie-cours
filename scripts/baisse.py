@@ -73,9 +73,10 @@ def main(cours_json, dossier, cache, out):
     for k, q in data["lignes"].items():
         actuel = q.get("coursDevise", q["cours"])
         s = c["series"].get(k) or {}
-        jours = sorted(s.items())
-        if q.get("date") == today:
-            jours.append((today, actuel))
+        jd = dict(s)
+        if q.get("date"):
+            jd[q["date"]] = actuel  # le dernier cours relevé fait foi pour sa journée (Yahoo oublie parfois la veille)
+        jours = sorted(jd.items())
         # 1 : créneaux
         cr = [v for _, v in sl.get(k, [])][-4:]
         c1 = len(cr) == 4 and baisses(cr) == 3
