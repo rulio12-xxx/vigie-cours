@@ -1,6 +1,6 @@
 """Niveau de baisse (0 à 4) de chaque ligne, critères cumulatifs :
-  1 : 3 baisses consécutives sur les 4 derniers relevés de créneau (tâches 9h25 / 13h05 / 19h50)
-  2 : + 3 baisses consécutives de clôture journalière (le jour en cours compte avec le dernier cours)
+  1 : au moins 2 baisses sur les 3 derniers intervalles de créneau (tâches 9h25 / 13h05 / 19h50)
+  2 : + au moins 2 baisses sur les 3 dernières clôtures journalières (le jour en cours compte avec le dernier cours)
   3 : + au moins 2 semaines en baisse sur les 3 dernières (clôtures hebdomadaires)
   4 : + baisse sur 52 semaines
 Usage : python3 baisse.py cours.json dossier_releves cache_quotidien.json sortie.json
@@ -79,10 +79,10 @@ def main(cours_json, dossier, cache, out):
         jours = sorted(jd.items())
         # 1 : créneaux
         cr = [v for _, v in sl.get(k, [])][-4:]
-        c1 = len(cr) == 4 and baisses(cr) == 3
+        c1 = len(cr) == 4 and baisses(cr) >= 2
         # 2 : jours
         dj = [v for _, v in jours][-4:]
-        c2 = len(dj) == 4 and baisses(dj) == 3
+        c2 = len(dj) == 4 and baisses(dj) >= 2
         # 3 : semaines (dernière clôture de chaque semaine ISO)
         sem = {}
         for d, v in jours:
@@ -104,7 +104,7 @@ def main(cours_json, dossier, cache, out):
                   "detail": {"creneaux": cr, "jours": dj, "semaines": ws,
                              "il_y_a_52_sem": ref, "var52": round(actuel / ref - 1, 4) if ref else None}}
     json.dump({"releve": now.strftime("%Y-%m-%d %H:%M"), "fuseau": "Europe/Paris",
-               "regles": "Cumulatif. 1 : 3 baisses consécutives sur 3 créneaux de tâche · 2 : + 3 jours de baisse consécutifs · 3 : + au moins 2 semaines de baisse sur les 3 dernières · 4 : + baisse sur 52 semaines",
+               "regles": "Cumulatif. 1 : au moins 2 baisses sur les 3 derniers créneaux de tâche · 2 : + au moins 2 jours de baisse sur les 3 derniers · 3 : + au moins 2 semaines de baisse sur les 3 dernières · 4 : + baisse sur 52 semaines",
                "lignes": res}, open(out, "w"), ensure_ascii=False, indent=1, sort_keys=True)
     from collections import Counter
     print("niveaux", dict(Counter(r["niveau"] for r in res.values())))
