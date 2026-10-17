@@ -32,7 +32,7 @@
   },
   "abivax": {
    "an": false,
-   "creneaux": false,
+   "creneaux": true,
    "detail": {
     "creneaux": [
      81.95,
@@ -56,7 +56,7 @@
     "var52": 0.0057
    },
    "jours": false,
-   "niveau": 0,
+   "niveau": 1,
    "semaines": true
   },
   "adocia": {
@@ -169,7 +169,7 @@
     ],
     "var52": 0.2272
    },
-   "jours": false,
+   "jours": true,
    "niveau": 0,
    "semaines": false
   },
@@ -262,7 +262,7 @@
   },
   "amundi-msci-world": {
    "an": false,
-   "creneaux": false,
+   "creneaux": true,
    "detail": {
     "creneaux": [
      440.3,
@@ -285,13 +285,13 @@
     ],
     "var52": 0.1978
    },
-   "jours": false,
-   "niveau": 0,
+   "jours": true,
+   "niveau": 2,
    "semaines": false
   },
   "amundi-new-energy": {
    "an": false,
-   "creneaux": false,
+   "creneaux": true,
    "detail": {
     "creneaux": [
      39.22,
@@ -314,8 +314,8 @@
     ],
     "var52": 0.2197
    },
-   "jours": false,
-   "niveau": 0,
+   "jours": true,
+   "niveau": 3,
    "semaines": true
   },
   "aubay": {
@@ -343,7 +343,7 @@
     ],
     "var52": 0.0952
    },
-   "jours": false,
+   "jours": true,
    "niveau": 0,
    "semaines": true
   },
@@ -401,13 +401,13 @@
     ],
     "var52": -0.2454
    },
-   "jours": false,
+   "jours": true,
    "niveau": 0,
    "semaines": false
   },
   "biomerieux": {
    "an": true,
-   "creneaux": false,
+   "creneaux": true,
    "detail": {
     "creneaux": [
      87.6,
@@ -431,7 +431,7 @@
     "var52": -0.209
    },
    "jours": false,
-   "niveau": 0,
+   "niveau": 1,
    "semaines": false
   },
   "bnp-paribas": {
@@ -459,7 +459,7 @@
     ],
     "var52": 0.1958
    },
-   "jours": false,
+   "jours": true,
    "niveau": 0,
    "semaines": true
   },
@@ -494,7 +494,7 @@
   },
   "capgemini": {
    "an": true,
-   "creneaux": false,
+   "creneaux": true,
    "detail": {
     "creneaux": [
      122.1,
@@ -517,8 +517,8 @@
     ],
     "var52": -0.0029
    },
-   "jours": false,
-   "niveau": 0,
+   "jours": true,
+   "niveau": 2,
    "semaines": false
   },
   "carmila": {
@@ -581,7 +581,7 @@
   },
   "coface": {
    "an": false,
-   "creneaux": false,
+   "creneaux": true,
    "detail": {
     "creneaux": [
      16.0,
@@ -605,7 +605,7 @@
     "var52": 0.0291
    },
    "jours": false,
-   "niveau": 0,
+   "niveau": 1,
    "semaines": true
   },
   "copap": {
@@ -633,7 +633,7 @@
     ],
     "var52": 0.4513
    },
-   "jours": false,
+   "jours": true,
    "niveau": 0,
    "semaines": true
   },
@@ -668,7 +668,7 @@
   },
   "credit-agricole": {
    "an": true,
-   "creneaux": false,
+   "creneaux": true,
    "detail": {
     "creneaux": [
      15.645,
@@ -691,8 +691,8 @@
     ],
     "var52": -0.047
    },
-   "jours": false,
-   "niveau": 0,
+   "jours": true,
+   "niveau": 4,
    "semaines": true
   },
   "danone": {
@@ -747,13 +747,13 @@
     ],
     "var52": -0.463
    },
-   "jours": false,
+   "jours": true,
    "niveau": 0,
    "semaines": true
   },
   "dcam": {
    "an": false,
-   "creneaux": false,
+   "creneaux": true,
    "detail": {
     "creneaux": [
      6.343,
@@ -776,8 +776,8 @@
     ],
     "var52": 0.2102
    },
-   "jours": false,
-   "niveau": 0,
+   "jours": true,
+   "niveau": 2,
    "semaines": false
   },
   "eiffage": {
@@ -869,7 +869,7 @@
   },
   "equasens": {
    "an": true,
-   "creneaux": false,
+   "creneaux": true,
    "detail": {
     "creneaux": [
      28.75,
@@ -893,7 +893,7 @@
     "var52": -0.2985
    },
    "jours": false,
-   "niveau": 0,
+   "niveau": 1,
    "semaines": true
   },
   "essilorluxottica": {
@@ -954,7 +954,7 @@
   },
   "figeac-aero": {
    "an": true,
-   "creneaux": false,
+   "creneaux": true,
    "detail": {
     "creneaux": [
      10.76,
@@ -977,13 +977,13 @@
     ],
     "var52": -0.0937
    },
-   "jours": false,
-   "niveau": 0,
+   "jours": true,
+   "niveau": 4,
    "semaines": true
   },
   "fountaine-pajot": {
    "an": true,
-   "creneaux": false,
+   "creneaux": true,
    "detail": {
     "creneaux": [
      74.7,
@@ -1007,7 +1007,7 @@
     "var52": -0.278
    },
    "jours": false,
-   "niveau": 0,
+   "niveau": 1,
    "semaines": true
   },
   "franklin-asia": {
@@ -1091,8 +1091,8 @@
     ],
     "var52": -0.0605
    },
-   "jours": false,
-   "niveau": 1,
+   "jours": true,
+   "niveau": 2,
    "semaines": false
   },
   "genfit": {
@@ -1178,7 +1178,7 @@
     ],
     "var52": 0.3469
    },
-   "jours": false,
+   "jours": true,
    "niveau": 0,
    "semaines": true
   },
@@ -1207,8 +1207,8 @@
     ],
     "var52": -0.5802
    },
-   "jours": false,
-   "niveau": 1,
+   "jours": true,
+   "niveau": 4,
    "semaines": true
   },
   "guillin": {
@@ -1242,7 +1242,7 @@
   },
   "hermes": {
    "an": true,
-   "creneaux": false,
+   "creneaux": true,
    "detail": {
     "creneaux": [
      1338.5,
@@ -1266,12 +1266,12 @@
     "var52": -0.3895
    },
    "jours": false,
-   "niveau": 0,
+   "niveau": 1,
    "semaines": true
   },
   "hoegh-autoliners": {
    "an": false,
-   "creneaux": false,
+   "creneaux": true,
    "detail": {
     "creneaux": [
      17.6739,
@@ -1294,8 +1294,8 @@
     ],
     "var52": 0.9694
    },
-   "jours": false,
-   "niveau": 0,
+   "jours": true,
+   "niveau": 2,
    "semaines": false
   },
   "indice-stoxx600": {
@@ -1358,7 +1358,7 @@
   },
   "ipsen": {
    "an": false,
-   "creneaux": false,
+   "creneaux": true,
    "detail": {
     "creneaux": [
      148.5,
@@ -1382,7 +1382,7 @@
     "var52": 0.3036
    },
    "jours": false,
-   "niveau": 0,
+   "niveau": 1,
    "semaines": false
   },
   "jacquet-metals": {
@@ -1416,7 +1416,7 @@
   },
   "lighton": {
    "an": true,
-   "creneaux": false,
+   "creneaux": true,
    "detail": {
     "creneaux": [
      1.926,
@@ -1440,12 +1440,12 @@
     "var52": -0.7577
    },
    "jours": true,
-   "niveau": 0,
+   "niveau": 4,
    "semaines": true
   },
   "lithium-batteries": {
    "an": false,
-   "creneaux": false,
+   "creneaux": true,
    "detail": {
     "creneaux": [
      23.7512,
@@ -1468,8 +1468,8 @@
     ],
     "var52": 0.0763
    },
-   "jours": false,
-   "niveau": 0,
+   "jours": true,
+   "niveau": 3,
    "semaines": true
   },
   "lna-sante": {
@@ -1503,7 +1503,7 @@
   },
   "lvmh": {
    "an": true,
-   "creneaux": false,
+   "creneaux": true,
    "detail": {
     "creneaux": [
      398.3,
@@ -1527,12 +1527,12 @@
     "var52": -0.3446
    },
    "jours": false,
-   "niveau": 0,
+   "niveau": 1,
    "semaines": false
   },
   "maurel-prom": {
    "an": false,
-   "creneaux": false,
+   "creneaux": true,
    "detail": {
     "creneaux": [
      8.035,
@@ -1556,7 +1556,7 @@
     "var52": 0.8003
    },
    "jours": false,
-   "niveau": 0,
+   "niveau": 1,
    "semaines": true
   },
   "michelin": {
@@ -1584,8 +1584,8 @@
     ],
     "var52": 0.2434
    },
-   "jours": false,
-   "niveau": 1,
+   "jours": true,
+   "niveau": 2,
    "semaines": false
   },
   "mth-oblig-25y": {
@@ -1613,13 +1613,13 @@
     ],
     "var52": -0.0913
    },
-   "jours": false,
+   "jours": true,
    "niveau": 0,
    "semaines": false
   },
   "nexans": {
    "an": false,
-   "creneaux": false,
+   "creneaux": true,
    "detail": {
     "creneaux": [
      127.2,
@@ -1643,12 +1643,12 @@
     "var52": 0.0497
    },
    "jours": true,
-   "niveau": 0,
+   "niveau": 3,
    "semaines": true
   },
   "nucl": {
    "an": true,
-   "creneaux": false,
+   "creneaux": true,
    "detail": {
     "creneaux": [
      39.93,
@@ -1672,7 +1672,7 @@
     "var52": -0.2752
    },
    "jours": true,
-   "niveau": 0,
+   "niveau": 4,
    "semaines": true
   },
   "opmobility": {
@@ -1700,7 +1700,7 @@
     ],
     "var52": -0.316
    },
-   "jours": false,
+   "jours": true,
    "niveau": 0,
    "semaines": true
   },
@@ -1793,7 +1793,7 @@
   },
   "psp5": {
    "an": false,
-   "creneaux": false,
+   "creneaux": true,
    "detail": {
     "creneaux": [
      60.62,
@@ -1816,8 +1816,8 @@
     ],
     "var52": 0.2194
    },
-   "jours": false,
-   "niveau": 0,
+   "jours": true,
+   "niveau": 2,
    "semaines": false
   },
   "ptpxh": {
@@ -1845,13 +1845,13 @@
     ],
     "var52": 0.3045
    },
-   "jours": false,
+   "jours": true,
    "niveau": 0,
    "semaines": true
   },
   "pust": {
    "an": false,
-   "creneaux": false,
+   "creneaux": true,
    "detail": {
     "creneaux": [
      106.56,
@@ -1875,7 +1875,7 @@
     "var52": 0.2469
    },
    "jours": true,
-   "niveau": 0,
+   "niveau": 2,
    "semaines": false
   },
   "quadient": {
@@ -1903,7 +1903,7 @@
     ],
     "var52": 0.0855
    },
-   "jours": false,
+   "jours": true,
    "niveau": 0,
    "semaines": false
   },
@@ -1932,13 +1932,13 @@
     ],
     "var52": 0.0556
    },
-   "jours": false,
+   "jours": true,
    "niveau": 0,
    "semaines": true
   },
   "remx": {
    "an": true,
-   "creneaux": false,
+   "creneaux": true,
    "detail": {
     "creneaux": [
      9.716,
@@ -1962,7 +1962,7 @@
     "var52": -0.1767
    },
    "jours": true,
-   "niveau": 0,
+   "niveau": 4,
    "semaines": true
   },
   "renault": {
@@ -1996,7 +1996,7 @@
   },
   "rising-stone": {
    "an": false,
-   "creneaux": false,
+   "creneaux": true,
    "detail": {
     "creneaux": [
      41.2,
@@ -2019,8 +2019,8 @@
     ],
     "var52": null
    },
-   "jours": false,
-   "niveau": 0,
+   "jours": true,
+   "niveau": 2,
    "semaines": false
   },
   "robertet": {
@@ -2054,7 +2054,7 @@
   },
   "rubis": {
    "an": false,
-   "creneaux": false,
+   "creneaux": true,
    "detail": {
     "creneaux": [
      35.16,
@@ -2078,7 +2078,7 @@
     "var52": 0.1474
    },
    "jours": false,
-   "niveau": 0,
+   "niveau": 1,
    "semaines": false
   },
   "safran": {
@@ -2170,7 +2170,7 @@
   },
   "sartorius-stedim": {
    "an": false,
-   "creneaux": false,
+   "creneaux": true,
    "detail": {
     "creneaux": [
      219.4,
@@ -2194,7 +2194,7 @@
     "var52": 0.0612
    },
    "jours": false,
-   "niveau": 0,
+   "niveau": 1,
    "semaines": false
   },
   "scor": {
@@ -2228,7 +2228,7 @@
   },
   "semco": {
    "an": false,
-   "creneaux": false,
+   "creneaux": true,
    "detail": {
     "creneaux": [
      40.25,
@@ -2251,13 +2251,13 @@
     ],
     "var52": 0.5074
    },
-   "jours": false,
-   "niveau": 0,
+   "jours": true,
+   "niveau": 3,
    "semaines": true
   },
   "societe-generale": {
    "an": false,
-   "creneaux": false,
+   "creneaux": true,
    "detail": {
     "creneaux": [
      64.6,
@@ -2280,8 +2280,8 @@
     ],
     "var52": 0.2019
    },
-   "jours": false,
-   "niveau": 0,
+   "jours": true,
+   "niveau": 3,
    "semaines": true
   },
   "spie": {
@@ -2344,7 +2344,7 @@
   },
   "stif": {
    "an": true,
-   "creneaux": false,
+   "creneaux": true,
    "detail": {
     "creneaux": [
      16.98,
@@ -2368,12 +2368,12 @@
     "var52": -0.753
    },
    "jours": false,
-   "niveau": 0,
+   "niveau": 1,
    "semaines": true
   },
   "stmicroelectronics": {
    "an": false,
-   "creneaux": false,
+   "creneaux": true,
    "detail": {
     "creneaux": [
      41.41,
@@ -2397,7 +2397,7 @@
     "var52": 0.6587
    },
    "jours": true,
-   "niveau": 0,
+   "niveau": 3,
    "semaines": true
   },
   "sword": {
@@ -2425,7 +2425,7 @@
     ],
     "var52": -0.2027
    },
-   "jours": false,
+   "jours": true,
    "niveau": 0,
    "semaines": true
   },
@@ -2454,7 +2454,7 @@
     ],
     "var52": -0.1645
    },
-   "jours": false,
+   "jours": true,
    "niveau": 0,
    "semaines": false
   },
@@ -2605,7 +2605,7 @@
   },
   "veolia": {
    "an": false,
-   "creneaux": false,
+   "creneaux": true,
    "detail": {
     "creneaux": [
      32.38,
@@ -2629,12 +2629,12 @@
     "var52": 0.0811
    },
    "jours": false,
-   "niveau": 0,
+   "niveau": 1,
    "semaines": false
   },
   "vetoquinol": {
    "an": true,
-   "creneaux": false,
+   "creneaux": true,
    "detail": {
     "creneaux": [
      79.3,
@@ -2658,7 +2658,7 @@
     "var52": -0.0063
    },
    "jours": false,
-   "niveau": 0,
+   "niveau": 1,
    "semaines": false
   },
   "vinci": {
@@ -2742,7 +2742,7 @@
     ],
     "var52": 0.2739
    },
-   "jours": false,
+   "jours": true,
    "niveau": 0,
    "semaines": true
   },
@@ -2777,7 +2777,7 @@
   },
   "witbe": {
    "an": false,
-   "creneaux": false,
+   "creneaux": true,
    "detail": {
     "creneaux": [
      4.05,
@@ -2800,11 +2800,11 @@
     ],
     "var52": 1.3491
    },
-   "jours": false,
-   "niveau": 0,
+   "jours": true,
+   "niveau": 3,
    "semaines": true
   }
  },
- "regles": "Cumulatif. 1 : 3 baisses consécutives sur 3 créneaux de tâche · 2 : + 3 jours de baisse consécutifs · 3 : + au moins 2 semaines de baisse sur les 3 dernières · 4 : + baisse sur 52 semaines",
- "releve": "2026-10-17 13:37"
+ "regles": "Cumulatif. 1 : au moins 2 baisses sur les 3 derniers créneaux de tâche · 2 : + au moins 2 jours de baisse sur les 3 derniers · 3 : + au moins 2 semaines de baisse sur les 3 dernières · 4 : + baisse sur 52 semaines",
+ "releve": "2026-10-17 20:26"
 }
