@@ -1,0 +1,2810 @@
+{
+ "fuseau": "Europe/Paris",
+ "lignes": {
+  "abionyx": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     1.484,
+     1.48,
+     1.52,
+     1.546
+    ],
+    "il_y_a_52_sem": 3.485,
+    "jours": [
+     1.432,
+     1.442,
+     1.484,
+     1.546
+    ],
+    "semaines": [
+     1.78,
+     1.622,
+     1.54,
+     1.546
+    ],
+    "var52": -0.5564
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "abivax": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     81.95,
+     82.5,
+     81.35,
+     78.95
+    ],
+    "il_y_a_52_sem": 78.5,
+    "jours": [
+     76.95,
+     79.25,
+     81.95,
+     78.95
+    ],
+    "semaines": [
+     81.9,
+     83.5,
+     79.0,
+     78.95
+    ],
+    "var52": 0.0057
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "adocia": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     2.38,
+     2.31
+    ],
+    "il_y_a_52_sem": 9.87,
+    "jours": [
+     2.02,
+     2.17,
+     2.57,
+     2.31
+    ],
+    "semaines": [
+     2.62,
+     2.146,
+     2.054,
+     2.31
+    ],
+    "var52": -0.766
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "adp": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     107.4,
+     107.3,
+     108.2,
+     108.5
+    ],
+    "il_y_a_52_sem": 118.5,
+    "jours": [
+     105.5,
+     105.3,
+     107.4,
+     108.5
+    ],
+    "semaines": [
+     110.8,
+     107.5,
+     103.7,
+     108.5
+    ],
+    "var52": -0.0844
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "air-liquide": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     173.04,
+     172.48,
+     173.12,
+     173.16
+    ],
+    "il_y_a_52_sem": 157.1091,
+    "jours": [
+     169.0,
+     170.34,
+     173.04,
+     173.16
+    ],
+    "semaines": [
+     167.5,
+     170.16,
+     169.68,
+     173.16
+    ],
+    "var52": 0.1022
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "alten": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     84.4,
+     84.85,
+     87.05,
+     84.0
+    ],
+    "il_y_a_52_sem": 68.45,
+    "jours": [
+     83.3,
+     84.5,
+     84.4,
+     84.0
+    ],
+    "semaines": [
+     76.25,
+     78.75,
+     80.5,
+     84.0
+    ],
+    "var52": 0.2272
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "amundi-cac40": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     40.335,
+     40.39,
+     40.57,
+     40.465
+    ],
+    "il_y_a_52_sem": 40.36,
+    "jours": [
+     39.79,
+     39.79,
+     40.025,
+     40.335
+    ],
+    "semaines": [
+     41.12,
+     40.18,
+     39.65,
+     40.335
+    ],
+    "var52": 0.0026
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "amundi-dax": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     230.85,
+     231.8,
+     233.3,
+     233.15
+    ],
+    "il_y_a_52_sem": 217.85,
+    "jours": [
+     229.85,
+     229.6,
+     230.1,
+     230.85
+    ],
+    "semaines": [
+     231.05,
+     229.55,
+     228.1,
+     230.85
+    ],
+    "var52": 0.0702
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "amundi-gold": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     146.85,
+     147.35,
+     147.05,
+     147.09
+    ],
+    "il_y_a_52_sem": 144.63,
+    "jours": [
+     147.8,
+     147.35,
+     145.66,
+     146.85
+    ],
+    "semaines": [
+     148.85,
+     145.8,
+     148.24,
+     146.85
+    ],
+    "var52": 0.017
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "amundi-msci-world": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     440.3,
+     441.3,
+     441.0,
+     439.63
+    ],
+    "il_y_a_52_sem": 367.02,
+    "jours": [
+     445.54,
+     443.79,
+     443.93,
+     440.3
+    ],
+    "semaines": [
+     434.39,
+     438.04,
+     443.44,
+     440.3
+    ],
+    "var52": 0.1978
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "amundi-new-energy": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     39.22,
+     39.55,
+     39.535,
+     39.3
+    ],
+    "il_y_a_52_sem": 32.221,
+    "jours": [
+     41.275,
+     40.74,
+     40.35,
+     39.22
+    ],
+    "semaines": [
+     40.2,
+     41.735,
+     41.165,
+     39.22
+    ],
+    "var52": 0.2197
+   },
+   "jours": true,
+   "niveau": 0,
+   "semaines": true
+  },
+  "aubay": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     49.7,
+     49.9,
+     50.3,
+     49.45
+    ],
+    "il_y_a_52_sem": 45.15,
+    "jours": [
+     49.6,
+     49.55,
+     49.7,
+     49.45
+    ],
+    "semaines": [
+     50.8,
+     50.0,
+     49.7,
+     49.45
+    ],
+    "var52": 0.0952
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "ayvens": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     8.925,
+     8.96,
+     9.0,
+     8.96
+    ],
+    "il_y_a_52_sem": 10.66,
+    "jours": [
+     8.83,
+     8.725,
+     8.925,
+     8.96
+    ],
+    "semaines": [
+     10.01,
+     9.095,
+     8.77,
+     8.96
+    ],
+    "var52": -0.1595
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "bastide": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     17.62,
+     18.0,
+     18.12,
+     17.96
+    ],
+    "il_y_a_52_sem": 23.8,
+    "jours": [
+     18.54,
+     18.3,
+     17.62,
+     17.96
+    ],
+    "semaines": [
+     19.5,
+     19.6,
+     21.0,
+     17.96
+    ],
+    "var52": -0.2454
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "biomerieux": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     87.6,
+     87.3,
+     87.8,
+     87.25
+    ],
+    "il_y_a_52_sem": 110.3,
+    "jours": [
+     85.4,
+     85.65,
+     87.6,
+     87.25
+    ],
+    "semaines": [
+     77.7,
+     76.75,
+     83.2,
+     87.25
+    ],
+    "var52": -0.209
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "bnp-paribas": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     88.94,
+     89.94,
+     89.97,
+     89.55
+    ],
+    "il_y_a_52_sem": 74.89,
+    "jours": [
+     90.23,
+     89.59,
+     88.94,
+     89.55
+    ],
+    "semaines": [
+     99.3,
+     92.06,
+     89.95,
+     89.55
+    ],
+    "var52": 0.1958
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "bouygues": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     40.94,
+     41.17,
+     41.43,
+     41.51
+    ],
+    "il_y_a_52_sem": 41.27,
+    "jours": [
+     40.46,
+     40.26,
+     40.94,
+     41.51
+    ],
+    "semaines": [
+     43.14,
+     40.7,
+     40.3,
+     41.51
+    ],
+    "var52": 0.0058
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "capgemini": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     122.1,
+     122.05,
+     124.3,
+     121.35
+    ],
+    "il_y_a_52_sem": 121.7,
+    "jours": [
+     119.3,
+     118.0,
+     122.1,
+     121.35
+    ],
+    "semaines": [
+     104.5,
+     108.9,
+     115.05,
+     121.35
+    ],
+    "var52": -0.0029
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "carmila": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     14.46,
+     14.52,
+     14.6,
+     14.62
+    ],
+    "il_y_a_52_sem": 17.06,
+    "jours": [
+     14.36,
+     14.54,
+     14.46,
+     14.62
+    ],
+    "semaines": [
+     14.8,
+     14.28,
+     14.34,
+     14.62
+    ],
+    "var52": -0.143
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "clariane": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     3.422,
+     3.43,
+     3.472,
+     3.43
+    ],
+    "il_y_a_52_sem": 4.418,
+    "jours": [
+     3.29,
+     3.352,
+     3.422,
+     3.43
+    ],
+    "semaines": [
+     3.9,
+     3.218,
+     3.322,
+     3.43
+    ],
+    "var52": -0.2236
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "coface": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     16.0,
+     16.05,
+     16.03,
+     15.9
+    ],
+    "il_y_a_52_sem": 15.45,
+    "jours": [
+     15.75,
+     15.86,
+     16.0,
+     15.9
+    ],
+    "semaines": [
+     16.39,
+     15.71,
+     15.58,
+     15.9
+    ],
+    "var52": 0.0291
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "copap": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     49.99,
+     50.18,
+     50.23,
+     50.04
+    ],
+    "il_y_a_52_sem": 34.48,
+    "jours": [
+     51.55,
+     51.26,
+     51.11,
+     49.99
+    ],
+    "semaines": [
+     50.48,
+     49.55,
+     50.97,
+     49.99
+    ],
+    "var52": 0.4513
+   },
+   "jours": true,
+   "niveau": 0,
+   "semaines": true
+  },
+  "covivio": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     43.96,
+     44.06,
+     44.38,
+     44.32
+    ],
+    "il_y_a_52_sem": 57.75,
+    "jours": [
+     43.22,
+     43.88,
+     43.96,
+     44.32
+    ],
+    "semaines": [
+     46.38,
+     43.4,
+     42.88,
+     44.32
+    ],
+    "var52": -0.2326
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "credit-agricole": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     15.645,
+     15.765,
+     15.725,
+     15.715
+    ],
+    "il_y_a_52_sem": 16.49,
+    "jours": [
+     15.915,
+     15.805,
+     15.645,
+     15.715
+    ],
+    "semaines": [
+     18.185,
+     16.885,
+     16.32,
+     15.715
+    ],
+    "var52": -0.047
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "danone": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     61.22,
+     61.02,
+     61.18,
+     61.56
+    ],
+    "il_y_a_52_sem": 77.52,
+    "jours": [
+     58.74,
+     60.28,
+     61.22,
+     61.56
+    ],
+    "semaines": [
+     59.56,
+     59.12,
+     58.7,
+     61.56
+    ],
+    "var52": -0.2059
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "dbv": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     1.637,
+     1.568
+    ],
+    "il_y_a_52_sem": 2.92,
+    "jours": [
+     1.631,
+     1.597,
+     1.623,
+     1.568
+    ],
+    "semaines": [
+     2.022,
+     1.904,
+     1.678,
+     1.568
+    ],
+    "var52": -0.463
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "dcam": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     6.343,
+     6.358,
+     6.353,
+     6.334
+    ],
+    "il_y_a_52_sem": 5.234,
+    "jours": [
+     6.418,
+     6.391,
+     6.396,
+     6.343
+    ],
+    "semaines": [
+     6.255,
+     6.308,
+     6.389,
+     6.343
+    ],
+    "var52": 0.2102
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "eiffage": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     100.75,
+     100.8,
+     101.25,
+     100.95
+    ],
+    "il_y_a_52_sem": 112.6,
+    "jours": [
+     99.86,
+     99.46,
+     100.75,
+     100.95
+    ],
+    "semaines": [
+     106.05,
+     100.1,
+     98.72,
+     100.95
+    ],
+    "var52": -0.1035
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "elis": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     22.16,
+     22.24,
+     22.58,
+     22.52
+    ],
+    "il_y_a_52_sem": 24.82,
+    "jours": [
+     21.9,
+     21.82,
+     22.16,
+     22.52
+    ],
+    "semaines": [
+     22.2,
+     21.3,
+     21.26,
+     22.52
+    ],
+    "var52": -0.0927
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "engie": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     23.21,
+     23.28,
+     23.22,
+     23.42
+    ],
+    "il_y_a_52_sem": 19.655,
+    "jours": [
+     23.02,
+     23.3,
+     23.21,
+     23.42
+    ],
+    "semaines": [
+     23.35,
+     22.78,
+     22.75,
+     23.42
+    ],
+    "var52": 0.1916
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "equasens": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     28.75,
+     28.6,
+     28.9,
+     28.55
+    ],
+    "il_y_a_52_sem": 40.7,
+    "jours": [
+     28.4,
+     28.5,
+     28.75,
+     28.55
+    ],
+    "semaines": [
+     29.45,
+     29.5,
+     28.7,
+     28.55
+    ],
+    "var52": -0.2985
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "essilorluxottica": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     148.7,
+     149.25,
+     154.1,
+     154.4
+    ],
+    "il_y_a_52_sem": 312.5,
+    "jours": [
+     146.3,
+     148.1,
+     148.7,
+     154.4
+    ],
+    "semaines": [
+     143.9,
+     142.8,
+     146.35,
+     154.4
+    ],
+    "var52": -0.5059
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "eutelsat": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     1.745,
+     1.766
+    ],
+    "il_y_a_52_sem": 3.645,
+    "jours": [
+     1.3695,
+     1.689,
+     1.508,
+     1.766
+    ],
+    "semaines": [
+     1.7075,
+     1.521,
+     1.38,
+     1.766
+    ],
+    "var52": -0.5155
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "figeac-aero": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     10.76,
+     10.86,
+     10.78,
+     10.74
+    ],
+    "il_y_a_52_sem": 11.85,
+    "jours": [
+     10.9,
+     11.1,
+     10.76,
+     10.74
+    ],
+    "semaines": [
+     11.08,
+     11.1,
+     10.86,
+     10.74
+    ],
+    "var52": -0.0937
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "fountaine-pajot": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     74.7,
+     74.0,
+     73.8,
+     74.8
+    ],
+    "il_y_a_52_sem": 103.6,
+    "jours": [
+     74.4,
+     74.8,
+     74.7,
+     74.8
+    ],
+    "semaines": [
+     80.5,
+     78.5,
+     74.6,
+     74.8
+    ],
+    "var52": -0.278
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "franklin-asia": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     37.13,
+     37.03,
+     36.79
+    ],
+    "il_y_a_52_sem": 25.82,
+    "jours": [
+     39.06,
+     38.48,
+     38.335,
+     37.225
+    ],
+    "semaines": [
+     39.745,
+     40.425,
+     39.35,
+     37.225
+    ],
+    "var52": 0.4249
+   },
+   "jours": true,
+   "niveau": 0,
+   "semaines": true
+  },
+  "franklin-china": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     24.835,
+     24.79,
+     24.81
+    ],
+    "il_y_a_52_sem": 28.625,
+    "jours": [
+     25.365,
+     25.31,
+     25.09,
+     25.055
+    ],
+    "semaines": [
+     24.975,
+     24.61,
+     25.405,
+     25.055
+    ],
+    "var52": -0.1333
+   },
+   "jours": true,
+   "niveau": 0,
+   "semaines": true
+  },
+  "ge-healthcare": {
+   "an": true,
+   "creneaux": true,
+   "detail": {
+    "creneaux": [
+     63.0516,
+     62.5834,
+     62.4722,
+     62.4265
+    ],
+    "il_y_a_52_sem": 74.05,
+    "jours": [
+     68.79,
+     68.47,
+     70.35,
+     69.57
+    ],
+    "semaines": [
+     66.63,
+     64.29,
+     65.74,
+     69.57
+    ],
+    "var52": -0.0605
+   },
+   "jours": false,
+   "niveau": 1,
+   "semaines": false
+  },
+  "genfit": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     8.14,
+     8.17,
+     8.44,
+     8.4
+    ],
+    "il_y_a_52_sem": 3.7,
+    "jours": [
+     7.89,
+     7.83,
+     8.14,
+     8.4
+    ],
+    "semaines": [
+     8.92,
+     9.1,
+     8.28,
+     8.4
+    ],
+    "var52": 1.2703
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "gl-events": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     31.2,
+     31.25,
+     31.8,
+     31.4
+    ],
+    "il_y_a_52_sem": 28.7,
+    "jours": [
+     24.3,
+     24.35,
+     31.2,
+     31.4
+    ],
+    "semaines": [
+     25.5,
+     24.2,
+     24.3,
+     31.4
+    ],
+    "var52": 0.0941
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "gtt": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     207.0,
+     210.2,
+     213.5,
+     211.6
+    ],
+    "il_y_a_52_sem": 157.1,
+    "jours": [
+     215.6,
+     213.2,
+     207.0,
+     211.6
+    ],
+    "semaines": [
+     218.8,
+     210.0,
+     216.4,
+     211.6
+    ],
+    "var52": 0.3469
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "guerbet": {
+   "an": true,
+   "creneaux": true,
+   "detail": {
+    "creneaux": [
+     6.25,
+     6.23,
+     6.15,
+     6.12
+    ],
+    "il_y_a_52_sem": 14.58,
+    "jours": [
+     6.3,
+     6.3,
+     6.25,
+     6.12
+    ],
+    "semaines": [
+     7.03,
+     6.68,
+     6.59,
+     6.12
+    ],
+    "var52": -0.5802
+   },
+   "jours": false,
+   "niveau": 1,
+   "semaines": true
+  },
+  "guillin": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     19.0,
+     19.1,
+     19.45,
+     19.05
+    ],
+    "il_y_a_52_sem": 29.4,
+    "jours": [
+     19.3,
+     19.3,
+     19.0,
+     19.05
+    ],
+    "semaines": [
+     20.5,
+     20.2,
+     19.5,
+     19.05
+    ],
+    "var52": -0.352
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "hermes": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     1338.5,
+     1332.5,
+     1348.5,
+     1337.5
+    ],
+    "il_y_a_52_sem": 2191.0,
+    "jours": [
+     1284.5,
+     1295.5,
+     1338.5,
+     1337.5
+    ],
+    "semaines": [
+     1347.5,
+     1299.5,
+     1283.0,
+     1337.5
+    ],
+    "var52": -0.3895
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "hoegh-autoliners": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     17.6739,
+     17.5682,
+     17.8123,
+     17.6258
+    ],
+    "il_y_a_52_sem": 94.8,
+    "jours": [
+     188.9,
+     186.7,
+     187.7,
+     186.7
+    ],
+    "semaines": [
+     184.0,
+     191.5,
+     184.6,
+     186.7
+    ],
+    "var52": 0.9694
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "indice-stoxx600": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     640.16,
+     642.11,
+     644.63,
+     644.74
+    ],
+    "il_y_a_52_sem": 566.24,
+    "jours": [
+     635.01,
+     637.75,
+     640.16,
+     644.74
+    ],
+    "semaines": [
+     638.65,
+     631.35,
+     631.55,
+     644.74
+    ],
+    "var52": 0.1386
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "infotel": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     38.6,
+     38.75,
+     38.5,
+     38.65
+    ],
+    "il_y_a_52_sem": 39.5,
+    "jours": [
+     38.6,
+     38.55,
+     38.6,
+     38.65
+    ],
+    "semaines": [
+     40.1,
+     39.5,
+     38.0,
+     38.65
+    ],
+    "var52": -0.0215
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "ipsen": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     148.5,
+     147.6,
+     150.3,
+     149.0
+    ],
+    "il_y_a_52_sem": 114.3,
+    "jours": [
+     142.6,
+     145.6,
+     148.5,
+     149.0
+    ],
+    "semaines": [
+     143.3,
+     139.6,
+     142.7,
+     149.0
+    ],
+    "var52": 0.3036
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "jacquet-metals": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     19.84,
+     19.98,
+     20.1,
+     20.25
+    ],
+    "il_y_a_52_sem": 17.68,
+    "jours": [
+     19.96,
+     20.15,
+     19.84,
+     20.25
+    ],
+    "semaines": [
+     20.7,
+     19.5,
+     19.66,
+     20.25
+    ],
+    "var52": 0.1454
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "lighton": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     1.926,
+     1.925,
+     1.9,
+     1.902
+    ],
+    "il_y_a_52_sem": 7.85,
+    "jours": [
+     2.23,
+     2.05,
+     1.926,
+     1.902
+    ],
+    "semaines": [
+     3.11,
+     2.86,
+     2.285,
+     1.902
+    ],
+    "var52": -0.7577
+   },
+   "jours": true,
+   "niveau": 0,
+   "semaines": true
+  },
+  "lithium-batteries": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     23.7512,
+     23.9693,
+     23.9462,
+     23.793
+    ],
+    "il_y_a_52_sem": 22.1068,
+    "jours": [
+     25.3852,
+     24.9523,
+     24.6501,
+     23.7512
+    ],
+    "semaines": [
+     26.0,
+     26.1118,
+     25.8271,
+     23.7512
+    ],
+    "var52": 0.0763
+   },
+   "jours": true,
+   "niveau": 0,
+   "semaines": true
+  },
+  "lna-sante": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     23.0,
+     23.0,
+     23.5,
+     23.4
+    ],
+    "il_y_a_52_sem": 23.5,
+    "jours": [
+     23.2,
+     23.6,
+     23.0,
+     23.4
+    ],
+    "semaines": [
+     29.2,
+     24.7,
+     23.8,
+     23.4
+    ],
+    "var52": -0.0043
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "lvmh": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     398.3,
+     396.15,
+     399.05,
+     397.0
+    ],
+    "il_y_a_52_sem": 605.7,
+    "jours": [
+     384.05,
+     389.55,
+     398.3,
+     397.0
+    ],
+    "semaines": [
+     396.85,
+     378.55,
+     380.0,
+     397.0
+    ],
+    "var52": -0.3446
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "maurel-prom": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     8.035,
+     8.02,
+     8.145,
+     8.105
+    ],
+    "il_y_a_52_sem": 4.502,
+    "jours": [
+     8.27,
+     8.295,
+     8.035,
+     8.105
+    ],
+    "semaines": [
+     8.065,
+     7.66,
+     8.18,
+     8.105
+    ],
+    "var52": 0.8003
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "michelin": {
+   "an": false,
+   "creneaux": true,
+   "detail": {
+    "creneaux": [
+     34.09,
+     34.07,
+     34.03,
+     33.67
+    ],
+    "il_y_a_52_sem": 27.08,
+    "jours": [
+     33.89,
+     33.85,
+     34.09,
+     33.67
+    ],
+    "semaines": [
+     33.8,
+     33.02,
+     33.41,
+     33.67
+    ],
+    "var52": 0.2434
+   },
+   "jours": false,
+   "niveau": 1,
+   "semaines": false
+  },
+  "mth-oblig-25y": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     68.83,
+     68.83,
+     68.51,
+     68.73
+    ],
+    "il_y_a_52_sem": 75.634,
+    "jours": [
+     67.9,
+     68.33,
+     68.0,
+     68.83
+    ],
+    "semaines": [
+     68.1,
+     68.24,
+     67.79,
+     68.83
+    ],
+    "var52": -0.0913
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "nexans": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     127.2,
+     129.0,
+     128.3,
+     126.7
+    ],
+    "il_y_a_52_sem": 120.7,
+    "jours": [
+     131.1,
+     129.3,
+     127.2,
+     126.7
+    ],
+    "semaines": [
+     135.6,
+     136.4,
+     129.3,
+     126.7
+    ],
+    "var52": 0.0497
+   },
+   "jours": true,
+   "niveau": 0,
+   "semaines": true
+  },
+  "nucl": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     39.93,
+     40.777,
+     40.729,
+     39.893
+    ],
+    "il_y_a_52_sem": 55.042,
+    "jours": [
+     42.57,
+     41.609,
+     40.466,
+     39.93
+    ],
+    "semaines": [
+     44.16,
+     43.827,
+     43.084,
+     39.93
+    ],
+    "var52": -0.2752
+   },
+   "jours": true,
+   "niveau": 0,
+   "semaines": true
+  },
+  "opmobility": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     9.435,
+     9.65,
+     9.945,
+     9.74
+    ],
+    "il_y_a_52_sem": 14.24,
+    "jours": [
+     9.57,
+     9.5,
+     9.435,
+     9.74
+    ],
+    "semaines": [
+     11.84,
+     11.8,
+     9.725,
+     9.74
+    ],
+    "var52": -0.316
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "paasi": {
+   "an": false,
+   "creneaux": true,
+   "detail": {
+    "creneaux": [
+     38.155,
+     38.08,
+     37.98,
+     37.755
+    ],
+    "il_y_a_52_sem": 29.626,
+    "jours": [
+     40.19,
+     39.515,
+     39.255,
+     38.155
+    ],
+    "semaines": [
+     40.57,
+     41.02,
+     40.435,
+     38.155
+    ],
+    "var52": 0.2744
+   },
+   "jours": true,
+   "niveau": 3,
+   "semaines": true
+  },
+  "pceu": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     39.58,
+     39.695,
+     39.87,
+     39.845
+    ],
+    "il_y_a_52_sem": 34.21,
+    "jours": [
+     39.305,
+     39.26,
+     39.44,
+     39.58
+    ],
+    "semaines": [
+     39.475,
+     39.025,
+     39.06,
+     39.58
+    ],
+    "var52": 0.1647
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "pernod-ricard": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     66.6,
+     66.88,
+     68.4,
+     68.22
+    ],
+    "il_y_a_52_sem": 89.2,
+    "jours": [
+     65.52,
+     66.1,
+     66.6,
+     68.22
+    ],
+    "semaines": [
+     59.04,
+     58.62,
+     61.6,
+     68.22
+    ],
+    "var52": -0.2352
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "psp5": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     60.62,
+     60.69,
+     60.55,
+     60.35
+    ],
+    "il_y_a_52_sem": 49.491,
+    "jours": [
+     61.51,
+     61.19,
+     61.24,
+     60.62
+    ],
+    "semaines": [
+     59.51,
+     60.26,
+     61.22,
+     60.62
+    ],
+    "var52": 0.2194
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "ptpxh": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     58.38,
+     59.0,
+     59.18,
+     58.85
+    ],
+    "il_y_a_52_sem": 45.114,
+    "jours": [
+     60.2,
+     59.54,
+     59.24,
+     58.38
+    ],
+    "semaines": [
+     59.12,
+     59.72,
+     59.57,
+     58.38
+    ],
+    "var52": 0.3045
+   },
+   "jours": true,
+   "niveau": 0,
+   "semaines": true
+  },
+  "pust": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     106.56,
+     107.06,
+     106.58,
+     105.34
+    ],
+    "il_y_a_52_sem": 84.48,
+    "jours": [
+     110.26,
+     109.12,
+     108.86,
+     106.56
+    ],
+    "semaines": [
+     107.54,
+     109.8,
+     110.44,
+     106.56
+    ],
+    "var52": 0.2469
+   },
+   "jours": true,
+   "niveau": 0,
+   "semaines": false
+  },
+  "quadient": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     14.56,
+     14.72,
+     15.24,
+     14.98
+    ],
+    "il_y_a_52_sem": 13.8,
+    "jours": [
+     14.78,
+     14.68,
+     14.56,
+     14.98
+    ],
+    "semaines": [
+     13.08,
+     13.86,
+     15.2,
+     14.98
+    ],
+    "var52": 0.0855
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "ramsay-sante": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     9.5,
+     9.52,
+     9.5,
+     9.5
+    ],
+    "il_y_a_52_sem": 9.0,
+    "jours": [
+     9.86,
+     9.82,
+     9.5,
+     9.5
+    ],
+    "semaines": [
+     9.82,
+     9.68,
+     9.96,
+     9.5
+    ],
+    "var52": 0.0556
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "remx": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     9.716,
+     9.624,
+     9.58,
+     9.59
+    ],
+    "il_y_a_52_sem": 11.648,
+    "jours": [
+     10.274,
+     10.044,
+     9.928,
+     9.716
+    ],
+    "semaines": [
+     11.482,
+     10.984,
+     10.714,
+     9.716
+    ],
+    "var52": -0.1767
+   },
+   "jours": true,
+   "niveau": 0,
+   "semaines": true
+  },
+  "renault": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     26.7,
+     26.87,
+     27.72,
+     27.59
+    ],
+    "il_y_a_52_sem": 34.39,
+    "jours": [
+     27.26,
+     26.47,
+     26.7,
+     27.59
+    ],
+    "semaines": [
+     26.3,
+     24.68,
+     26.5,
+     27.59
+    ],
+    "var52": -0.1977
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "rising-stone": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     41.2,
+     41.0,
+     41.9,
+     41.2
+    ],
+    "il_y_a_52_sem": null,
+    "jours": [
+     45.05,
+     42.9,
+     41.2,
+     41.2
+    ],
+    "semaines": [
+     39.85,
+     40.8,
+     45.5,
+     41.2
+    ],
+    "var52": null
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "robertet": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     775.0,
+     773.0,
+     773.0,
+     776.0
+    ],
+    "il_y_a_52_sem": 818.0,
+    "jours": [
+     776.0,
+     773.0,
+     775.0,
+     776.0
+    ],
+    "semaines": [
+     743.0,
+     747.0,
+     774.0,
+     776.0
+    ],
+    "var52": -0.0513
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "rubis": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     35.16,
+     35.08,
+     35.46,
+     35.34
+    ],
+    "il_y_a_52_sem": 30.8,
+    "jours": [
+     35.0,
+     35.32,
+     35.16,
+     35.34
+    ],
+    "semaines": [
+     34.58,
+     34.76,
+     34.54,
+     35.34
+    ],
+    "var52": 0.1474
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "safran": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     317.0,
+     318.6,
+     319.6,
+     317.0
+    ],
+    "il_y_a_52_sem": 296.9,
+    "jours": [
+     312.8,
+     314.9,
+     317.0,
+     317.0
+    ],
+    "semaines": [
+     336.3,
+     330.1,
+     316.2,
+     317.0
+    ],
+    "var52": 0.0677
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "saint-gobain": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     66.54,
+     66.64,
+     66.72,
+     66.54
+    ],
+    "il_y_a_52_sem": 89.5,
+    "jours": [
+     65.32,
+     65.64,
+     66.54,
+     66.54
+    ],
+    "semaines": [
+     69.82,
+     67.1,
+     64.94,
+     66.54
+    ],
+    "var52": -0.2565
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "sanofi": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     72.16,
+     71.42,
+     71.82,
+     71.94
+    ],
+    "il_y_a_52_sem": 86.43,
+    "jours": [
+     70.74,
+     71.82,
+     72.16,
+     71.94
+    ],
+    "semaines": [
+     71.79,
+     70.81,
+     71.52,
+     71.94
+    ],
+    "var52": -0.1677
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "sartorius-stedim": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     219.4,
+     218.6,
+     218.8,
+     215.0
+    ],
+    "il_y_a_52_sem": 202.6,
+    "jours": [
+     213.6,
+     216.4,
+     219.4,
+     215.0
+    ],
+    "semaines": [
+     212.4,
+     208.2,
+     212.8,
+     215.0
+    ],
+    "var52": 0.0612
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "scor": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     33.4,
+     33.4,
+     33.54,
+     33.76
+    ],
+    "il_y_a_52_sem": 29.88,
+    "jours": [
+     33.22,
+     33.26,
+     33.4,
+     33.76
+    ],
+    "semaines": [
+     33.16,
+     31.72,
+     31.92,
+     33.76
+    ],
+    "var52": 0.1299
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "semco": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     40.25,
+     40.7,
+     40.3,
+     39.6
+    ],
+    "il_y_a_52_sem": 26.27,
+    "jours": [
+     43.55,
+     43.55,
+     40.25,
+     39.6
+    ],
+    "semaines": [
+     47.45,
+     50.7,
+     46.45,
+     39.6
+    ],
+    "var52": 0.5074
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "societe-generale": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     64.6,
+     65.32,
+     64.95,
+     64.47
+    ],
+    "il_y_a_52_sem": 53.64,
+    "jours": [
+     64.84,
+     64.42,
+     64.6,
+     64.47
+    ],
+    "semaines": [
+     72.31,
+     66.3,
+     63.04,
+     64.47
+    ],
+    "var52": 0.2019
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "spie": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     41.72,
+     41.8,
+     41.98,
+     41.7
+    ],
+    "il_y_a_52_sem": 45.96,
+    "jours": [
+     42.02,
+     41.98,
+     41.72,
+     41.7
+    ],
+    "semaines": [
+     43.46,
+     41.3,
+     42.14,
+     41.7
+    ],
+    "var52": -0.0927
+   },
+   "jours": true,
+   "niveau": 0,
+   "semaines": true
+  },
+  "stellantis": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     3.883,
+     3.901,
+     4.018,
+     3.984
+    ],
+    "il_y_a_52_sem": 8.908,
+    "jours": [
+     3.931,
+     3.8335,
+     3.883,
+     3.9845
+    ],
+    "semaines": [
+     4.0265,
+     3.8825,
+     4.0045,
+     3.9845
+    ],
+    "var52": -0.5528
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "stif": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     16.98,
+     16.88,
+     17.07,
+     16.3
+    ],
+    "il_y_a_52_sem": 66.0,
+    "jours": [
+     15.87,
+     16.55,
+     16.98,
+     16.3
+    ],
+    "semaines": [
+     46.2,
+     18.99,
+     16.8,
+     16.3
+    ],
+    "var52": -0.753
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "stmicroelectronics": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     41.41,
+     41.805,
+     41.36,
+     41.17
+    ],
+    "il_y_a_52_sem": 24.82,
+    "jours": [
+     43.835,
+     43.03,
+     41.41,
+     41.17
+    ],
+    "semaines": [
+     45.105,
+     50.34,
+     46.545,
+     41.17
+    ],
+    "var52": 0.6587
+   },
+   "jours": true,
+   "niveau": 0,
+   "semaines": true
+  },
+  "sword": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     29.3,
+     29.5,
+     29.7,
+     29.1
+    ],
+    "il_y_a_52_sem": 36.5,
+    "jours": [
+     29.8,
+     30.15,
+     29.3,
+     29.1
+    ],
+    "semaines": [
+     29.25,
+     28.9,
+     29.85,
+     29.1
+    ],
+    "var52": -0.2027
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "technip-energies": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     29.94,
+     30.04,
+     30.64,
+     30.98
+    ],
+    "il_y_a_52_sem": 37.08,
+    "jours": [
+     30.32,
+     30.2,
+     29.94,
+     30.98
+    ],
+    "semaines": [
+     28.76,
+     28.04,
+     29.14,
+     30.98
+    ],
+    "var52": -0.1645
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "tf1": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     5.88,
+     5.895,
+     5.98,
+     5.935
+    ],
+    "il_y_a_52_sem": 8.495,
+    "jours": [
+     5.76,
+     5.795,
+     5.88,
+     5.935
+    ],
+    "semaines": [
+     6.42,
+     5.995,
+     5.88,
+     5.935
+    ],
+    "var52": -0.3014
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "totalenergies": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     80.21,
+     79.6,
+     79.83,
+     80.71
+    ],
+    "il_y_a_52_sem": 52.71,
+    "jours": [
+     79.89,
+     80.17,
+     80.21,
+     80.71
+    ],
+    "semaines": [
+     79.99,
+     74.46,
+     78.53,
+     80.71
+    ],
+    "var52": 0.5312
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "traton": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     33.62,
+     33.98,
+     34.38,
+     34.0
+    ],
+    "il_y_a_52_sem": 25.88,
+    "jours": [
+     33.14,
+     33.0,
+     33.62,
+     34.0
+    ],
+    "semaines": [
+     35.12,
+     34.04,
+     33.46,
+     34.0
+    ],
+    "var52": 0.3138
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "trigano": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     126.6,
+     127.2,
+     130.7,
+     128.9
+    ],
+    "il_y_a_52_sem": 146.0,
+    "jours": [
+     126.4,
+     125.0,
+     126.6,
+     128.9
+    ],
+    "semaines": [
+     131.2,
+     125.2,
+     125.3,
+     128.9
+    ],
+    "var52": -0.1171
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "umg": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     15.595,
+     15.59,
+     16.07,
+     16.265
+    ],
+    "il_y_a_52_sem": 23.6,
+    "jours": [
+     15.36,
+     15.23,
+     15.595,
+     16.265
+    ],
+    "semaines": [
+     14.59,
+     14.255,
+     14.9,
+     16.265
+    ],
+    "var52": -0.3108
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "veolia": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     32.38,
+     32.54,
+     32.45,
+     32.4
+    ],
+    "il_y_a_52_sem": 29.97,
+    "jours": [
+     31.78,
+     32.09,
+     32.38,
+     32.4
+    ],
+    "semaines": [
+     31.36,
+     30.73,
+     31.09,
+     32.4
+    ],
+    "var52": 0.0811
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "vetoquinol": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     79.3,
+     78.3,
+     78.4,
+     78.3
+    ],
+    "il_y_a_52_sem": 78.8,
+    "jours": [
+     76.5,
+     78.1,
+     79.3,
+     78.3
+    ],
+    "semaines": [
+     75.5,
+     73.6,
+     77.6,
+     78.3
+    ],
+    "var52": -0.0063
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "vinci": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     107.65,
+     107.5,
+     107.95,
+     108.05
+    ],
+    "il_y_a_52_sem": 121.4,
+    "jours": [
+     106.6,
+     106.4,
+     107.65,
+     108.05
+    ],
+    "semaines": [
+     111.3,
+     106.8,
+     107.05,
+     108.05
+    ],
+    "var52": -0.11
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "virbac": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     336.5,
+     337.0,
+     336.5,
+     337.0
+    ],
+    "il_y_a_52_sem": 333.5,
+    "jours": [
+     325.0,
+     335.0,
+     336.5,
+     337.0
+    ],
+    "semaines": [
+     303.5,
+     308.0,
+     317.5,
+     337.0
+    ],
+    "var52": 0.0105
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "viridien": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     88.8,
+     87.9
+    ],
+    "il_y_a_52_sem": 69.0,
+    "jours": [
+     88.95,
+     86.15,
+     85.7,
+     87.9
+    ],
+    "semaines": [
+     92.2,
+     84.6,
+     90.45,
+     87.9
+    ],
+    "var52": 0.2739
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  },
+  "wavestone": {
+   "an": true,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     29.85,
+     30.25,
+     30.4,
+     30.1
+    ],
+    "il_y_a_52_sem": 47.9,
+    "jours": [
+     30.0,
+     29.35,
+     29.85,
+     30.1
+    ],
+    "semaines": [
+     29.75,
+     29.05,
+     29.85,
+     30.1
+    ],
+    "var52": -0.3716
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": false
+  },
+  "witbe": {
+   "an": false,
+   "creneaux": false,
+   "detail": {
+    "creneaux": [
+     4.05,
+     3.99,
+     3.97,
+     3.97
+    ],
+    "il_y_a_52_sem": 1.69,
+    "jours": [
+     4.02,
+     4.0,
+     4.05,
+     3.97
+    ],
+    "semaines": [
+     4.2,
+     4.52,
+     4.15,
+     3.97
+    ],
+    "var52": 1.3491
+   },
+   "jours": false,
+   "niveau": 0,
+   "semaines": true
+  }
+ },
+ "regles": "Cumulatif. 1 : 3 baisses consécutives sur 3 créneaux de tâche · 2 : + 3 jours de baisse consécutifs · 3 : + au moins 2 semaines de baisse sur les 3 dernières · 4 : + baisse sur 52 semaines",
+ "releve": "2026-10-17 13:34"
+}
