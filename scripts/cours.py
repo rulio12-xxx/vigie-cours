@@ -63,11 +63,11 @@ def _init_session():
     CRUMB = r.text.strip() if r.status_code == 200 else ""
 
 
-def fetch(ticker):
+def fetch(ticker, rng="1d", itv="5m"):
     err = "?"
     for attempt in range(3):
         host = ("query1", "query2", "query1")[attempt]
-        url = f"https://{host}.finance.yahoo.com/v8/finance/chart/{ticker}?range=1d&interval=5m"
+        url = f"https://{host}.finance.yahoo.com/v8/finance/chart/{ticker}?range={rng}&interval={itv}"
         try:
             if SESSION is not None:
                 _init_session()

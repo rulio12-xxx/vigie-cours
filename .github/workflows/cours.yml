@@ -17,7 +17,7 @@ concurrency:
 jobs:
   releve:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
       - name: Dépendance (imitation navigateur)
@@ -35,6 +35,7 @@ jobs:
           cp /tmp/cours.json donnees/cours.json
           [ -f /tmp/risque.json ] && cp /tmp/risque.json donnees/risque.json || true
           cp /tmp/releves/*.txt donnees/releves/
+          ( cd "$GITHUB_WORKSPACE/scripts" && python3 baisse.py /tmp/cours.json /tmp/pub/donnees/releves /tmp/pub/donnees/quotidien.json /tmp/pub/donnees/baisse.json ) || echo "baisse indisponible"
           # garde 10 jours de relevés
           find donnees/releves -name '*.txt' -mtime +10 -delete || true
           ls donnees/releves | sort | head -n -40 | sed 's#^#donnees/releves/#' | xargs -r git rm -q || true
